@@ -1,8 +1,8 @@
 ﻿
 body {
 
-    
-    --page-bg-background-img: linear-gradient( rgba(0,0,0,0.8), rgba(0,0,0,0.8) ),url("img/miyakojima-12683_TP_V.jpg");
+    --page-bg-background-color: rgba(0,0,0,0.8);
+    --page-bg-background-img: url("img/miyakojima-12683_TP_V.jpg");
     
     --nav-background-color: rgba(20,20,20,0.7);
     

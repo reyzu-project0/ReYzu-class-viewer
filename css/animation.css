@@ -1,0 +1,63 @@
+﻿
+/*transition - common */
+
+.state-title {
+    transition: all 0.2s;
+}
+
+.state-content {
+    transition: all 0.2s;
+}
+
+.card {
+    transition: all 0.2s;
+}
+
+.icon-a {
+    transition: all 0.2s;
+}
+
+
+
+.content-wrapper {
+    margin-top: 20px;
+    animation: bottom-to-top 1s;
+}
+
+
+.post-header {
+    animation: post-header-effect 1s;
+}
+
+
+
+
+
+
+
+@keyframes bottom-to-top {
+
+    0% {
+        margin-top: 50px;
+        opacity: 0;
+    }
+
+    100% {
+        margin-top: 20px;
+        opacity: 1;
+    }
+}
+
+@keyframes post-header-effect {
+
+    0% {
+        transform: translateY(-50px);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
