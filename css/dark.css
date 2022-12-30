@@ -1,10 +1,10 @@
 ﻿
 body {
 
-    --page-bg-background-color: rgba(0,0,0,0.8);
-    --page-bg-background-img: url("img/miyakojima-12683_TP_V.jpg");
+    --page-bg-background-color: rgba(0,0,0,0.6);
+    --page-bg-background-img: url("img/miyakojima-12683_TP_V_blur.png");
     
-    --nav-background-color: rgba(20,20,20,0.7);
+    --nav-background-color: rgba(20,20,20,0.6);
     
     --nav-brand-color: rgba(230,230,230,1);
     --nav-vr-color: rgba(208,208,208,1);
