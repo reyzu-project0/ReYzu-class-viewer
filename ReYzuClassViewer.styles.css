@@ -1,0 +1,142 @@
+/* /Pages/About.razor.rz.scp.css */
+
+.info-item[b-a9lg4lyui0] {
+    margin: 0.5rem 0;
+    display:flex;
+
+}
+
+.info-item > *:nth-child(1)[b-a9lg4lyui0] {
+    flex-basis: 40%;
+}
+
+/* /Pages/Course.razor.rz.scp.css */
+
+.table-filters-wrapper[b-hx4ocoltsy] {
+    max-height: var( --table-filters-wrapper-max-height );
+}
+
+
+.card-widget[b-hx4ocoltsy] {
+    padding: 1px;
+}
+
+
+/**/
+[b-hx4ocoltsy] .ant-drawer-content-wrapper {
+    width: 450px !important;
+}
+
+/*width <= 576px*/
+@media screen and (max-width: 576px) {
+
+    [b-hx4ocoltsy] .ant-drawer-content-wrapper {
+        width: 97vw !important;
+    }
+
+}
+
+
+/* sidebar info-item */
+.info-item[b-hx4ocoltsy] {
+    margin: 0.5rem 0;
+    display: flex;
+}
+
+    .info-item > *:nth-child(1)[b-hx4ocoltsy] {
+        flex-basis: 10%;
+    }
+
+
+/* rating */
+.rating-progress[b-hx4ocoltsy] {
+    width: 200px;
+}
+
+.rating-average[b-hx4ocoltsy] {
+    font-size: 3rem;
+}
+
+
+/**/
+.select-wrapper[b-hx4ocoltsy] {
+    min-width: 300px;
+}
+
+.modal-close[b-hx4ocoltsy] {
+    color: var(--modal-close-color);
+}
+
+    .modal-close:hover[b-hx4ocoltsy] {
+        color: var(--modal-close-hover-color);
+        transform: scale(1.2);
+    }
+/* /Pages/Index.razor.rz.scp.css */
+
+.comment-content[b-tb65znsz1e] {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+/* /Shared/MainLayout.razor.rz.scp.css */
+
+/* background */
+.background-wrapper[b-h0o48foz92] {
+    position: fixed;
+    z-index: -10;
+    top: 0;
+    left: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("img/miyakojima-12683_TP_V_blur.png");
+}
+
+.page-background-mask[b-h0o48foz92] {
+    width: 100%;
+    height: 100%;
+
+    background-color: var(--page-background-mask-background-color);
+}
+
+
+/* navigation */
+.header-wrapper[b-h0o48foz92] {
+    /* prevent margin collapsing */
+    display: flex;
+    flex-direction: column;
+}
+
+.top-navigation[b-h0o48foz92] {
+    background-color: var(--top-navigation-background-color);
+    backdrop-filter: blur(30px) saturate(125%);
+
+    height: var(--top-navigation-height);
+}
+
+.logo[b-h0o48foz92] {
+    color: var(--nav-logo-color);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.logo-img[b-h0o48foz92] {
+    height: 32px;
+}
+
+[b-h0o48foz92] .ant-menu {
+    background-color: transparent;
+    border-bottom: none;
+    border-right: none;
+}
+
+.info-icon[b-h0o48foz92] {
+    color: var(--top-navigation-info-icon-color);
+}
+
+

@@ -1,0 +1,71 @@
+﻿
+.loading-progress {
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    position: absolute;
+    top: 0;
+    
+}
+
+
+.loading-progress-text {
+    /*position: absolute;*/
+    text-align: center;
+    font-weight: bold;
+    /*inset: calc(20vh + 3.25rem) 0 auto 0.2rem;*/
+}
+
+    .loading-progress-text:after {
+        content: var(--blazor-load-percentage-text, "Loading");
+    }
+
+
+.loader {
+
+    width: 10px;
+    height: 10px;
+
+    margin:15px;
+    background-color: black;
+    border-radius: 50%;
+    animation: animloader 0.8s infinite;
+    animation-delay: 0.5s;
+}
+
+
+@media (prefers-color-scheme: dark) {
+
+    .loading-progress {
+        background-color: black;
+    }
+
+    .loader {
+        background-color: white;
+    }
+
+    .loading-progress-text {
+        color: white;
+    }
+
+}
+
+@keyframes animloader {
+    0% {
+        transform: scale(1)
+    }
+
+    50% {
+        transform: scale(1.8)
+    }
+
+    100% {
+        transform: scale(1)
+    }
+}
