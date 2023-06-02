@@ -4,6 +4,8 @@
     margin: 0.5rem 0;
     display:flex;
 
+    align-items: center;
+
 }
 
 .info-item > *:nth-child(1)[b-a9lg4lyui0] {
