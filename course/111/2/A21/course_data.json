@@ -1,0 +1,93 @@
+[
+    {
+        "CourseID":"MR502",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"專題討論（二）",
+        "TeacherName":"陳芸",
+        "TeacherNameEn":"Yun Chen",
+        "ClassTime":"510 (2620) 511 (2620) 512 (2620)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MR504",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"再生醫學與組織工程",
+        "TeacherName":"邱彥霖",
+        "TeacherNameEn":"YEN-LING CHIU",
+        "ClassTime":"502 (2620) 503 (2620) 504 (2620)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MR506",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"高齡照護與遠距醫療",
+        "TeacherName":"范揚騰",
+        "TeacherNameEn":"FAN,YANG-TENG",
+        "ClassTime":"307 (2620) 308 (2620) 309 (2620)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MR508",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"人工智慧與醫學應用",
+        "TeacherName":"石曜嘉",
+        "TeacherNameEn":"SHIH,YAO-CHIA",
+        "ClassTime":"402 (2620) 403 (2620) 404 (2620)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MR510",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"創新醫療與精準醫學",
+        "TeacherName":"羅武嘉",
+        "TeacherNameEn":"LO,WU-CHIA",
+        "ClassTime":"407 (2620) 408 (2620) 409 (2620)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MR513",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"心智拓樸：社會神經科學研究",
+        "TeacherName":"范揚騰",
+        "TeacherNameEn":"FAN,YANG-TENG",
+        "ClassTime":"310 (2620) 311 (2620) 312 (2620)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MR516",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"臨床醫學專論",
+        "TeacherName":"張仲達",
+        "TeacherNameEn":"CHANG,CHUMG-TA",
+        "ClassTime":"410 (2620) 411 (2620) 412 (2620)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "CourseID":"CC509",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"古典文學專題",
+        "TeacherName":"李翠瑛",
+        "TeacherNameEn":"Tsui-Ying Lee",
+        "ClassTime":"307 (5633) 308 (5633) 309 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC523",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"中國歷代思想專題",
+        "TeacherName":"胡順萍",
+        "TeacherNameEn":"Shun-Ping Hu",
+        "ClassTime":"206 (5633) 207 (5633) 208 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC531",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"亞太華文文學專題",
+        "TeacherName":"鍾怡雯",
+        "TeacherNameEn":"Yee-Voon Choong",
+        "ClassTime":"106 (5633) 107 (5633) 108 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC544",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"現代小說研究專題",
+        "TeacherName":"洪士惠",
+        "TeacherNameEn":null,
+        "ClassTime":"402 (5633) 403 (5633) 404 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

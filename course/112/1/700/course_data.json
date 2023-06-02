@@ -1,0 +1,93 @@
+[
+    {
+        "CourseID":"CI001",
+        "CourseClass":"A1",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C++實習（一）",
+        "TeacherName":"胡光泰",
+        "TeacherNameEn":"HO QUANG THAI",
+        "ClassTime":"203 (1008) 204 (1008)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI001",
+        "CourseClass":"A2",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C++實習（一）",
+        "TeacherName":"胡光泰",
+        "TeacherNameEn":"HO QUANG THAI",
+        "ClassTime":"506 (1008) 507 (1008)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI001",
+        "CourseClass":"D",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C++實習（一）",
+        "TeacherName":"林榮彬",
+        "TeacherNameEn":"Rung-Bin Lin",
+        "ClassTime":"203 (1201A) 204 (1201A)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI003",
+        "CourseClass":"C1",
+        "Degree":1,
+        "CourseName":"基礎程式設計- Web Programming （一）",
+        "TeacherName":"張家榮",
+        "TeacherNameEn":null,
+        "ClassTime":"501 (5002) 502 (5002)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI003",
+        "CourseClass":"C2",
+        "Degree":1,
+        "CourseName":"基礎程式設計- Web Programming （一）",
+        "TeacherName":"張家榮",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (5002) 504 (5002)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI005",
+        "CourseClass":"B1",
+        "Degree":1,
+        "CourseName":"基礎程式設計（一）",
+        "TeacherName":"郭文嘉",
+        "TeacherNameEn":"Wen-Jia Kuo",
+        "ClassTime":"407 (1611) 408 (1611)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CI005",
+        "CourseClass":"B2",
+        "Degree":1,
+        "CourseName":"基礎程式設計（一）",
+        "TeacherName":"郭文嘉",
+        "TeacherNameEn":"Wen-Jia Kuo",
+        "ClassTime":"409 (1611) 410 (1611)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "CourseID":"BI507",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"微生物學特論",
+        "TeacherName":"簡志青",
+        "TeacherNameEn":"Chih-Ching Chien",
+        "ClassTime":"106 (2423) 107 (2423) 108 (2423)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI509",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"細胞生物學",
+        "TeacherName":"黃麗芬",
+        "TeacherNameEn":"Li-Fen Huang",
+        "ClassTime":"506 (2104) 507 (2104) 508 (2104)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI519",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"發酵工程",
+        "TeacherName":"陳姍玗",
+        "TeacherNameEn":"Shan-Yu Chen",
+        "ClassTime":"202 (2602) 203 (2602) 204 (2602)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI522",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"生物程序工程",
+        "TeacherName":"陳姍玗",
+        "TeacherNameEn":"Shan-Yu Chen",
+        "ClassTime":"302 (2010) 303 (2010) 304 (2010)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI539",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎生物技術實驗",
+        "TeacherName":"陳姍玗",
+        "TeacherNameEn":"Shan-Yu Chen",
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI542",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"生化工程實驗",
+        "TeacherName":"魏毓宏",
+        "TeacherNameEn":"Yu-Hong Wei",
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI565",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論",
+        "TeacherName":"魏毓宏",
+        "TeacherNameEn":"Yu-Hong Wei",
+        "ClassTime":"307 (2111) 308 (2111)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

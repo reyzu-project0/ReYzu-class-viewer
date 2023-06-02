@@ -1,0 +1,54 @@
+[
+    {
+        "CourseID":"CC548",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"現代散文專題",
+        "TeacherName":"鍾怡雯",
+        "TeacherNameEn":"Yee-Voon Choong",
+        "ClassTime":"106 (5633) 107 (5633) 108 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC561",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"論文寫作",
+        "TeacherName":"何威萱",
+        "TeacherNameEn":"WEI-HSUAN HO",
+        "ClassTime":"103 (5633) 104 (5633)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC565",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"東亞文明研究專題",
+        "TeacherName":"鍾雲鶯",
+        "TeacherNameEn":"Yun-Ying Chung",
+        "ClassTime":"202 (5633) 203 (5633) 204 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC567",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"語用學專題",
+        "TeacherName":"徐富美",
+        "TeacherNameEn":"Fu-mei Hsu",
+        "ClassTime":"406 (5633) 407 (5633) 408 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

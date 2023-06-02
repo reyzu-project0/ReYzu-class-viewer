@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"CB504",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（二）",
+        "TeacherName":"張經略、黃依賢、黃怡錚",
+        "TeacherNameEn":null,
+        "ClassTime":"507 (1401B) 508 (1401B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB522",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"生物資訊學",
+        "TeacherName":"歐昱言",
+        "TeacherNameEn":"Yu-Yen Ou",
+        "ClassTime":"202 (1301B) 203 (1301B) 204 (1301B)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB542",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"資訊探勘與檢索於生醫領域之應用",
+        "TeacherName":"丁賢偉",
+        "TeacherNameEn":null,
+        "ClassTime":"211 (1401A) 212 (1401A) 213 (1401A)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB545",
+        "CourseClass":"A1",
+        "Degree":1,
+        "CourseName":"臨床醫學訊號及影像之應用",
+        "TeacherName":"李愛先",
+        "TeacherNameEn":null,
+        "ClassTime":"311 (1202) 312 (1202) 313 (1202)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB604",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（四）",
+        "TeacherName":"林啟芳",
+        "TeacherNameEn":"Chi-Fang Lin",
+        "ClassTime":"507 (1401B) 508 (1401B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB621",
+        "CourseClass":"A1",
+        "Degree":1,
+        "CourseName":"統計基因體學專題",
+        "TeacherName":"許博凱",
+        "TeacherNameEn":"BO-KAI, HSU",
+        "ClassTime":"102 (1204) 103 (1204) 104 (1204)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

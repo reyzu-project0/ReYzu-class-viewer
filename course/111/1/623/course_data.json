@@ -1,0 +1,93 @@
+[
+    {
+        "CourseID":"AM576",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"專業實習社區藝術節策展與執行 （一）",
+        "TeacherName":"鄒淑慧",
+        "TeacherNameEn":"Shwu-Huoy Tzou",
+        "ClassTime":"503 (8702) 504 (8702)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM601",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"台灣藝術史",
+        "TeacherName":"龔詩文",
+        "TeacherNameEn":"Shih-Wen Kung",
+        "ClassTime":"402 (2602) 403 (2602) 404 (2602)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM654",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"博物館發展與當代議題",
+        "TeacherName":"曾肅良、陳冠華",
+        "TeacherNameEn":null,
+        "ClassTime":"306 (5103) 307 (5103) 308 (5103)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM657",
+        "CourseClass":"A1",
+        "Degree":1,
+        "CourseName":"藝術與文化產業",
+        "TeacherName":"黃琬雯",
+        "TeacherNameEn":"WAN-WEN HUANG",
+        "ClassTime":"102 (3210) 103 (3210) 104 (3210)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM578",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"藝術與設計創作執行（一）",
+        "TeacherName":"洪浩鈞",
+        "TeacherNameEn":"HAO-CHUN,HUNG",
+        "ClassTime":"103 (8702) 104 (8702)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM603",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"視覺藝術管理",
+        "TeacherName":"陳怡潔",
+        "TeacherNameEn":null,
+        "ClassTime":"107 (2620) 108 (2620) 109 (2620)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM622",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"當代藝術",
+        "TeacherName":"鄒淑慧",
+        "TeacherNameEn":"Shwu-Huoy Tzou",
+        "ClassTime":"202 (2605) 203 (2605) 204 (2605)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

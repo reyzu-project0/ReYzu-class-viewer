@@ -1,0 +1,54 @@
+[
+    {
+        "CourseID":"CC550",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"知青文學專題",
+        "TeacherName":"王力堅",
+        "TeacherNameEn":"WANG LIJIAN",
+        "ClassTime":"407 (5633) 408 (5633) 409 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC553",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"儒家經典詮釋專題",
+        "TeacherName":"鍾雲鶯",
+        "TeacherNameEn":"Yun-Ying Chung",
+        "ClassTime":"206 (5633) 207 (5633) 208 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC561",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"論文寫作",
+        "TeacherName":"何威萱",
+        "TeacherNameEn":"WEI-HSUAN HO",
+        "ClassTime":"103 (5633) 104 (5633)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CC566",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"語言對比分析專題",
+        "TeacherName":"徐富美",
+        "TeacherNameEn":"Fu-mei Hsu",
+        "ClassTime":"402 (5633) 403 (5633) 404 (5633)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

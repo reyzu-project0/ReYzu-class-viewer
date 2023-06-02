@@ -1,0 +1,41 @@
+[
+    {
+        "CourseID":"GI604",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（三）",
+        "TeacherName":"陳麗秋",
+        "TeacherNameEn":"Li-Chiou Chen",
+        "ClassTime":"506 (5410) 507 (5410)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI622",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"電子商務",
+        "TeacherName":"王小惠",
+        "TeacherNameEn":"Hsiao-Hui Wang",
+        "ClassTime":"502 (5415) 503 (5415) 504 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI633",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"智慧財產權研究",
+        "TeacherName":"葉志良",
+        "TeacherNameEn":"Chih-Liang Yeh",
+        "ClassTime":"307 (5415) 308 (5415) 309 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "CourseID":"EG001",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python（一）",
+        "TeacherName":"張幼珍",
+        "TeacherNameEn":"Yu-Chen Chang",
+        "ClassTime":"307 (5002) 308 (5002)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EG001",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python（一）",
+        "TeacherName":"張幼珍",
+        "TeacherNameEn":"Yu-Chen Chang",
+        "ClassTime":"407 (5002) 408 (5002)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EG003",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計(一)",
+        "TeacherName":"蔡介元",
+        "TeacherNameEn":"Chieh-Yuan Tsai",
+        "ClassTime":"106 (60406) 107 (60406)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EG003",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計(一)",
+        "TeacherName":"蔡介元",
+        "TeacherNameEn":"Chieh-Yuan Tsai",
+        "ClassTime":"108 (60406) 109 (60406)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EG004",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-工程應用程式語言（一）",
+        "TeacherName":"陳傳生",
+        "TeacherNameEn":"Chwan-Hsen Chen",
+        "ClassTime":"102 (3301A) 103 (3301A)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EG004",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計-工程應用程式語言（一）",
+        "TeacherName":"楊大中",
+        "TeacherNameEn":"Tachung Yang",
+        "ClassTime":"206 (3301A) 207 (3301A)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EG004",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"基礎程式設計-工程應用程式語言（一）",
+        "TeacherName":"謝建興",
+        "TeacherNameEn":"Jiann-Shing Shieh",
+        "ClassTime":"106 () 107 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

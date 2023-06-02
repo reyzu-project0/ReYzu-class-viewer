@@ -1,0 +1,54 @@
+[
+    {
+        "CourseID":"IM901",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"高等資管專題研討（一）",
+        "TeacherName":"系主任等",
+        "TeacherNameEn":null,
+        "ClassTime":"406 (1608A) 407 (1608A)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IM915",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"高等研究方法",
+        "TeacherName":"林耀欽",
+        "TeacherNameEn":"Yao Chin Lin",
+        "ClassTime":"311 (1505B) 312 (1505B) 313 (1505B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IM916",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"高等計量決策方法",
+        "TeacherName":"陳志成",
+        "TeacherNameEn":"Chih Cheng Chen",
+        "ClassTime":"606 (1503) 607 (1503) 608 (1503)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IM903",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"高等資管專題研討（三）",
+        "TeacherName":"系主任等",
+        "TeacherNameEn":null,
+        "ClassTime":"406 (1608A) 407 (1608A)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

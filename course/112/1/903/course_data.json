@@ -1,0 +1,67 @@
+[
+    {
+        "CourseID":"MT110",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"全民國防教育軍事訓練課程-國防政策",
+        "TeacherName":"傅正黔、周正中",
+        "TeacherNameEn":null,
+        "ClassTime":"501 () 502 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MT111",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"全民國防教育軍事訓練課程-防衛動員",
+        "TeacherName":"周正中、傅正黔",
+        "TeacherNameEn":null,
+        "ClassTime":"307 () 308 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MT112",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"全民國防教育軍事訓練課程-國防科技",
+        "TeacherName":"傅正黔、周正中",
+        "TeacherNameEn":null,
+        "ClassTime":"503 () 504 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MT114",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"全民國防教育軍事訓練課程-國際情勢",
+        "TeacherName":"周正中、傅正黔",
+        "TeacherNameEn":null,
+        "ClassTime":"301 () 302 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"MT115",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"全民國防教育軍事訓練課程-全民國防",
+        "TeacherName":"周正中、傅正黔",
+        "TeacherNameEn":null,
+        "ClassTime":"303 () 304 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

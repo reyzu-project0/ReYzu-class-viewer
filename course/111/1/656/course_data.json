@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"IP001",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"文化產業理論與政策專題研究",
+        "TeacherName":"彭俊亨",
+        "TeacherNameEn":"PENG,CHUN-HENG",
+        "ClassTime":"302 (5709) 303 (5709) 304 (5709)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP022",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"日本文化與創意產業專題研究",
+        "TeacherName":"吳翠華",
+        "TeacherNameEn":"Tsui-Hua Wu",
+        "ClassTime":"402 (5509) 403 (5509) 404 (5509)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP032",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"文化治理與政策專題研究",
+        "TeacherName":"彭俊亨",
+        "TeacherNameEn":"PENG,CHUN-HENG",
+        "ClassTime":"306 (5709) 307 (5709) 308 (5709)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP027",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"社區族群與地方特色產業專題研究",
+        "TeacherName":"陳巍仁、徐富美、黃智明",
+        "TeacherNameEn":null,
+        "ClassTime":"106 (5509) 107 (5509) 108 (5509)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP033",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"文化研究專題",
+        "TeacherName":"李玉瑛",
+        "TeacherNameEn":"Yu Ying Lee",
+        "ClassTime":"206 (5732) 207 (5732) 208 (5732)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP029",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"獨立研究（二）",
+        "TeacherName":"劉宜君",
+        "TeacherNameEn":"I-Chun Liu",
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

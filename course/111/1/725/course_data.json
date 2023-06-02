@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"CB503",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（一）",
+        "TeacherName":"黃毅然",
+        "TeacherNameEn":"Yieh-Ran Haung",
+        "ClassTime":"507 (1401B) 508 (1401B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB531",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"生物統計學",
+        "TeacherName":"李愛先",
+        "TeacherNameEn":null,
+        "ClassTime":"411 (1111) 412 (1111) 413 (1111)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB537",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"計算生物學",
+        "TeacherName":"歐昱言",
+        "TeacherNameEn":"Yu-Yen Ou",
+        "ClassTime":"202 (1301B) 203 (1301B) 204 (1301B)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB548",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"醫療資訊與醫療決策",
+        "TeacherName":"丁賢偉",
+        "TeacherNameEn":null,
+        "ClassTime":"211 (1113) 212 (1113) 213 (1113)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB603",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（三）",
+        "TeacherName":"周志岳",
+        "TeacherNameEn":"Chih-Yueh Chou",
+        "ClassTime":"507 (1401B) 508 (1401B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CB641",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"機器學習應用專題",
+        "TeacherName":"歐昱言",
+        "TeacherNameEn":"Yu-Yen Ou",
+        "ClassTime":"502 (1204) 503 (1204) 504 (1204)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

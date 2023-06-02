@@ -1,0 +1,15 @@
+[
+    {
+        "CourseID":"EG201",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"智慧生產概論",
+        "TeacherName":"陳傳生",
+        "TeacherNameEn":"Chwan-Hsen Chen",
+        "ClassTime":"402 (3216) 403 (3216) 404 (3216)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

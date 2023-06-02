@@ -1,0 +1,28 @@
+[
+    {
+        "CourseID":"BI562",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"生物科技探索",
+        "TeacherName":"陳姍玗",
+        "TeacherNameEn":"Shan-Yu Chen",
+        "ClassTime":"302 (2010) 303 (2010) 304 (2010)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"BI565",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論",
+        "TeacherName":"魏毓宏",
+        "TeacherNameEn":"Yu-Hong Wei",
+        "ClassTime":"307 (2105) 308 (2105)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

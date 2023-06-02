@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"CM724",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"個案研究方法",
+        "TeacherName":"曾詠青、簡忠仁",
+        "TeacherNameEn":null,
+        "ClassTime":"606 (60313B) 607 (60313B) 608 (60313B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM943",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"策略理論與管理",
+        "TeacherName":"廖東山",
+        "TeacherNameEn":"Tung-Shan Liao",
+        "ClassTime":"211 (60209) 212 (60209) 213 (60209)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM965",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"企業診斷",
+        "TeacherName":"劉恒逸",
+        "TeacherNameEn":"Heng-Yih Liu",
+        "ClassTime":"602 (60313B) 603 (60313B) 604 (60313B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM912",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"質化研究方法",
+        "TeacherName":"廖東山",
+        "TeacherNameEn":"Tung-Shan Liao",
+        "ClassTime":"311 (60209) 312 (60209) 313 (60209)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM944",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"管理專題研討",
+        "TeacherName":"張玉萱",
+        "TeacherNameEn":"YuHsuan Chang",
+        "ClassTime":"407 (60313B) 408 (60313B) 409 (60313B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM968",
+        "CourseClass":"B",
+        "Degree":2,
+        "CourseName":"博士論文寫作（一）",
+        "TeacherName":"陳志萍",
+        "TeacherNameEn":"Chih-Ping Chen",
+        "ClassTime":"511 (60313B) 512 (60313B) 513 (60313B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

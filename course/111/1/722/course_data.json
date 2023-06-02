@@ -1,0 +1,67 @@
+[
+    {
+        "CourseID":"GI525",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（一）",
+        "TeacherName":"葉志良",
+        "TeacherNameEn":"Chih-Liang Yeh",
+        "ClassTime":"507 (5410) 508 (5410)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI622",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"電子商務",
+        "TeacherName":"王小惠",
+        "TeacherNameEn":"Hsiao-Hui Wang",
+        "ClassTime":"502 (5415) 503 (5415) 504 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI633",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"智慧財產權研究",
+        "TeacherName":"葉志良",
+        "TeacherNameEn":"Chih-Liang Yeh",
+        "ClassTime":"307 (5415) 308 (5415) 309 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI634",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"數位媒體應用",
+        "TeacherName":"陳彥彰",
+        "TeacherNameEn":"CHEN,YEN-CHANG",
+        "ClassTime":"106 (5415) 107 (5415) 108 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI644",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"數位媒體使用者經驗研究",
+        "TeacherName":"黃絜如",
+        "TeacherNameEn":null,
+        "ClassTime":"402 (5415) 403 (5415) 404 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

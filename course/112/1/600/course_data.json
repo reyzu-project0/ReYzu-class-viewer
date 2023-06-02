@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"HS001",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Excel and VBA",
+        "TeacherName":"游育熙",
+        "TeacherNameEn":null,
+        "ClassTime":"309 () 310 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"HS001",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Excel and VBA",
+        "TeacherName":"吳清輝",
+        "TeacherNameEn":null,
+        "ClassTime":"403 () 404 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"HS001",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Excel and VBA",
+        "TeacherName":"黃福",
+        "TeacherNameEn":"Razat Kharga",
+        "ClassTime":"406 () 407 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"HS002",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計（一）",
+        "TeacherName":"沈永信",
+        "TeacherNameEn":null,
+        "ClassTime":"309 () 310 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"HS002",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計（一）",
+        "TeacherName":"待聘",
+        "TeacherNameEn":null,
+        "ClassTime":"103 () 104 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"HS112",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎數位自造",
+        "TeacherName":"林楚卿",
+        "TeacherNameEn":"Chor-Kheng Lim",
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

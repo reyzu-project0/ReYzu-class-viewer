@@ -1,0 +1,54 @@
+[
+    {
+        "CourseID":"GI503",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"研究方法",
+        "TeacherName":"王小惠",
+        "TeacherNameEn":"Hsiao-Hui Wang",
+        "ClassTime":"502 (5415) 503 (5415) 504 (5415)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI516",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"書報討論（二）",
+        "TeacherName":"鄧進宏",
+        "TeacherNameEn":"Chin-Hung Teng",
+        "ClassTime":"507 (5410) 508 (5410)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI570",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"資訊傳播產業研究",
+        "TeacherName":"葉志良",
+        "TeacherNameEn":"Chih-Liang Yeh",
+        "ClassTime":"402 (5415) 403 (5415) 404 (5415)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GI637",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"數位學習與介面設計",
+        "TeacherName":"趙伯堯",
+        "TeacherNameEn":null,
+        "ClassTime":"202 (5408) 203 (5408) 204 (5408)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

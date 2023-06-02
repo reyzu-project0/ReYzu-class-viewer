@@ -1,0 +1,67 @@
+[
+    {
+        "CourseID":"IP001",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"文化產業理論與政策專題研究",
+        "TeacherName":"彭俊亨",
+        "TeacherNameEn":"PENG,CHUN-HENG",
+        "ClassTime":"206 () 207 () 208 ()",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP026",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"藝術理論與文化產業專題研究",
+        "TeacherName":"彭俊亨",
+        "TeacherNameEn":"PENG,CHUN-HENG",
+        "ClassTime":"306 () 307 () 308 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP003",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"數位科技與文化產業專題研究",
+        "TeacherName":"林楚卿",
+        "TeacherNameEn":"Chor-Kheng Lim",
+        "ClassTime":"202 () 203 () 204 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP027",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"社區族群與地方特色產業專題研究",
+        "TeacherName":"陳巍仁、徐富美、李奇鴻",
+        "TeacherNameEn":null,
+        "ClassTime":"106 () 107 () 108 ()",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP029",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"獨立研究（二）",
+        "TeacherName":"劉宜君",
+        "TeacherNameEn":"I-Chun Liu",
+        "ClassTime":"(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

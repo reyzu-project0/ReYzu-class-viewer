@@ -1,0 +1,28 @@
+[
+    {
+        "CourseID":"IM902",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"高等資管專題研究（二）",
+        "TeacherName":"系主任等",
+        "TeacherNameEn":null,
+        "ClassTime":"406 (1608A) 407 (1608A)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IM904",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"高等資管專題研討（四）",
+        "TeacherName":"系主任等",
+        "TeacherNameEn":null,
+        "ClassTime":"406 (1608A) 407 (1608A)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

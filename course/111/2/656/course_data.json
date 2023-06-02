@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"IP007",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"論文寫作與指導",
+        "TeacherName":"劉宜君",
+        "TeacherNameEn":"I-Chun Liu",
+        "ClassTime":"202 (5732) 203 (5732) 204 (5732)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP021",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"文化資產保護政策專題研究",
+        "TeacherName":"彭俊亨",
+        "TeacherNameEn":"PENG,CHUN-HENG",
+        "ClassTime":"302 (5732) 303 (5732) 304 (5732)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP025",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"藝術與設計實作專題研究",
+        "TeacherName":"龔詩文",
+        "TeacherNameEn":"Shih-Wen Kung",
+        "ClassTime":"306 (5501) 307 (5501) 308 (5501)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP028",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"獨立研究（一）",
+        "TeacherName":"劉宜君",
+        "TeacherNameEn":"I-Chun Liu",
+        "ClassTime":"(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP011",
+        "CourseClass":"B",
+        "Degree":2,
+        "CourseName":"調查研究",
+        "TeacherName":"吳正中",
+        "TeacherNameEn":null,
+        "ClassTime":"311 (5732) 312 (5732) 313 (5732)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IP012",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"質性研究",
+        "TeacherName":"彭俊亨",
+        "TeacherNameEn":"PENG,CHUN-HENG",
+        "ClassTime":"206 (5501) 207 (5501) 208 (5501)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]

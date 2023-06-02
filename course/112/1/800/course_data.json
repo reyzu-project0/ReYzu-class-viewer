@@ -1,0 +1,80 @@
+[
+    {
+        "CourseID":"EN001",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python（一）",
+        "TeacherName":"陳念波",
+        "TeacherNameEn":"Nien-Po Chen",
+        "ClassTime":"102 (70405) 103 (70405)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN003",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C",
+        "TeacherName":"趙一芬",
+        "TeacherNameEn":null,
+        "ClassTime":"207 (70405) 208 (70405)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN003",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C",
+        "TeacherName":"趙一芬",
+        "TeacherNameEn":null,
+        "ClassTime":"202 (70405) 203 (70405)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN004",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"102 (70404) 103 (70404)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN004",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"107 (70404) 108 (70404)",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN004",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"林柏江",
+        "TeacherNameEn":"Po-Chiang,Lin",
+        "ClassTime":"502 () 503 ()",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]
