@@ -4,7 +4,7 @@
 
 ### 0.3.0
 
-`2023-6-1`
+`2023-6-2`
 
 - Comment
   - Move comment system to [Waline](https://github.com/walinejs/waline)
