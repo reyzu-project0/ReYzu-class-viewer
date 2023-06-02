@@ -169,7 +169,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-omKO6JA0anZnv3HDk\/+yfn4lUrRFG6POsQ9C5YD7xjk=",
+      "hash": "sha256-a1L6td2H35p2Qb04m0eF416cOTCFRwNZ+qMYJDkAEuk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -257,7 +257,7 @@
       "url": "_framework\/OneOf.dll"
     },
     {
-      "hash": "sha256-QOtqwx5PEK3hRXVauYLIq3IXFbDOH5tGoMjDWcoYLz8=",
+      "hash": "sha256-5Y2QqVxKyJX\/H8630Z9vUkOy1+bWKEbQ9mYx4Z64zmA=",
       "url": "_framework\/ReYzuClassViewer.dll"
     },
     {
@@ -385,11 +385,11 @@
       "url": "_framework\/dotnet.7.0.5.bciv64h61t.js"
     },
     {
-      "hash": "sha256-d\/smjBLg2H3Icn+Hlz2jFE9P7wDyde2DodBH\/WIrlEA=",
+      "hash": "sha256-\/QA7UPDEUoiD8maieBoubFbf800fz39s+vDv5AO0uhA=",
       "url": "_framework\/dotnet.wasm"
     },
     {
-      "hash": "sha256-Gh1XdnBWBtzvOAUlCcF+r2sn8WpVbyHZd6VqB81H+\/8=",
+      "hash": "sha256-\/sC0JzdG0qGVg0KuGY8kFfUa5TOnALGmhIx2WI3m\/dQ=",
       "url": "ReYzuClassViewer.styles.css"
     },
     {
@@ -1877,5 +1877,5 @@
       "url": "_content\/BlazorPro.BlazorSize\/blazorSizeResizeModule.js"
     }
   ],
-  "version": "ZRwt2Bsg"
+  "version": "hAxbgwTi"
 };
