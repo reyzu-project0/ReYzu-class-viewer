@@ -1,0 +1,10 @@
+# Ignore Visual Studio files
+**/.vs
+**/bin
+**/obj
+**/PublishProfiles
+**/*.user
+
+#
+/tests
+
