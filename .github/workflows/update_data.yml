@@ -129,7 +129,17 @@ jobs:
         working-directory: ./main/scripts
         run: |
           pipenv run python update_version.py
-       
+      
+      
+      # Archive production artifacts -----    
+      - name: Archive production artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: data
+          retention-days: 2
+          path: |
+            main/scripts/data
+      
       
       # copy to branch: data folder -----    
       - name: copy to folder - data
@@ -172,16 +182,6 @@ jobs:
         working-directory: ./data
         run: git push
 
-
-      # Archive production artifacts
-      # - name: Archive production artifacts
-      #   uses: actions/upload-artifact@v3
-      #   with:
-      #     name: dist
-      #     path: |
-      #       data/class-viewer
-      #       data/course
-      #       data/rating
    
    
    
