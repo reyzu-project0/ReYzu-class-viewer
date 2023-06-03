@@ -57,7 +57,7 @@ def get_course_data( year: str , semester: str , department_number: str  ) -> pd
 
     df_course_data = pd.DataFrame()
 
-    # 0 = all
+    # 0 = all , not contain Degree
     for degree in range(1,5):
         
         url = "https://portalfun.yzu.edu.tw/AcademicWebAPI/api/Cos/Select_Cos_Smtrcos_dept"
@@ -68,17 +68,37 @@ def get_course_data( year: str , semester: str , department_number: str  ) -> pd
         "Degree": degree,
         "ShowLang": "zh"
         }
-
-        # API Rate Limiting
-        time.sleep(0.1)
-        response = requests.post(url, data=payload)
         
+        # try to send request , limit 5 times
+        for attempt in range(5):
+            try:
+                # API Rate Limiting
+                time.sleep(0.1)
+
+                response = requests.post(url, data=payload)
+                response.raise_for_status()
+
+            except requests.HTTPError as error:
+                
+                print( f"bad request , retry - {attempt+1}" , error )
+                continue
+
+            else:
+                # http status success
+                break
+        
+        else:
+
+            print( "request failed" )
+            raise RuntimeError()
+
+
+        # response to json
         course_data_list = json.loads(response.text)
 
-        # check if no course data
+        # check if degree no course data
         if not course_data_list:
-            return None
-
+            continue
 
         # add to DataFrame
         df = pd.DataFrame(course_data_list)
@@ -87,8 +107,12 @@ def get_course_data( year: str , semester: str , department_number: str  ) -> pd
         # concat all degree
         df_course_data = pd.concat( [ df_course_data , df ] ) 
 
-    df_course_data.reset_index(drop=True, inplace=True)
+    # check if department no course data
+    if df_course_data.empty:
 
+        return None
+    
+    df_course_data.reset_index(drop=True, inplace=True)
 
     return df_course_data
 
@@ -126,6 +150,11 @@ for year_semester in year_semester_list:
     _semester = year_semester["Semester"]
 
 
+    # for test
+    # if not ( _year == "112" and _semester == "1"):
+    #     print("skip" ,_year , _semester )
+    #     continue
+
     # create folder - year
     year_path = file_folder / _year
     pathlib.Path.mkdir( year_path , exist_ok=True )
@@ -143,9 +172,9 @@ for year_semester in year_semester_list:
 
     
     # stop when reach the current year_semester
-    if _year == year_semester_current_dict["Year"] and _semester == year_semester_current_dict["Semester"] :
-        print( "Finished - reach the current year_semester" )
-        break
+    # if _year == year_semester_current_dict["Year"] and _semester == year_semester_current_dict["Semester"] :
+    #     print( "Finished - reach the current year_semester" )
+    #     break
 
 
     # API Rate Limiting
