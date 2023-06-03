@@ -1,0 +1,134 @@
+﻿@page "/About"
+
+@inject IJSRuntime JS
+
+<PageTitle>關於 | Class Viewer - ReYzu</PageTitle>
+
+
+<style>
+
+
+
+</style>
+
+
+<div class="main-page-content container-lg">
+
+    @* page-title *@
+    <div class="page-title-wrapper my-3">
+
+        <h4 class="page-title">關於</h4>
+        <h6 class="page-subtitle">Class Viewer</h6>
+
+    </div>
+
+    @* cards *@
+    <div class="cards-wrapper row gy-1">
+
+        @* 宣告 *@
+        <div class="col-12 col-md-5">
+
+            <div class="card-widget">
+
+                <AntDesign.Alert Type="@AntDesign.AlertType.Info"
+                                 Message=@(
+                                 @"
+                                 本網站為自架的非官方整理資料，內容來源包括但不限於，元智大學-教務處公告、元智大學課程查詢系統、Dcard 留言與心得分享。
+                                 本網站內容可能較為主觀，課程教師在不同學期之教學方式可能有所異動，僅供參考用途使用。
+                                 "
+                                 )
+                                 ShowIcon="true" />
+
+            </div>
+
+        </div>
+
+        @* 關於網站 *@
+        <div class="col-12 col-md-4">
+
+            <div class="card-widget">
+
+                <h6><i class="bi bi-heart"></i> 關於網站</h6>
+
+                <br />
+
+                <div class="d-flex gap-3">
+                    <a target="_blank" href="https://github.com/reyzu-project0/ReYzu-class-viewer" class="info-link">
+                        <i class="fa-brands fa-github"></i> GitHub
+                    </a>
+
+                    <a target="_blank" href="https://gitlab.com/reyzu-project0" class="info-link">
+                        <i class="fa-brands fa-gitlab"></i> GitLab (Backup)
+                    </a>
+                </div>
+                
+                <br />
+
+                <div class="info-item">
+                    <div class="page-subtitle">Class Viewer</div>
+                    <div class="page-title">@clientVersionCurrent</div>
+
+                    @if (clientVersionCurrent != clientVersion)
+                    {
+                        <div class="ms-2">
+                            <AntDesign.Button Ghost Danger Type="@AntDesign.ButtonType.Default" OnClick="reloadPage">
+                                 <i class="bi bi-arrow-clockwise"></i> Update to @clientVersion
+                             </AntDesign.Button>
+                        </div>
+                    }
+                </div>
+
+                <div class="info-item">
+                    <div class="page-subtitle">課程資料</div>
+                    <div class="page-title">@courseVersion</div>
+                </div>
+
+                <div class="info-item">
+                    <div class="page-subtitle">選課日程</div>
+                    <div class="page-title">@scheduleVersion</div>
+                </div>
+
+            </div>
+
+        </div>
+
+        @* GitHub  *@
+        <div class="col-12 col-md-3">
+
+            <div class="card-widget">
+
+                <h6><i class="bi bi-github"></i> GitHub</h6>
+
+                <br />
+
+                <div class="d-flex flex-column gap-2">
+
+                    <div>
+                        <img alt="GitHub deployments"
+                             src="https://img.shields.io/github/deployments/reyzu-project0/ReYzu-class-viewer/github-pages?label=gh-pages">
+                    </div>
+                    
+                    <div>
+                        <img alt="GitHub last commit (branch)" 
+                            src="https://img.shields.io/github/last-commit/reyzu-project0/ReYzu-class-viewer/main">
+                    </div>
+
+                </div>
+                
+            </div>
+
+        </div>
+
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+

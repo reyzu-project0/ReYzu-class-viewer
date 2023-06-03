@@ -1,0 +1,307 @@
+﻿@inherits LayoutComponentBase
+
+@inject IJSRuntime JS
+@inject AntDesign.INotificationService _notice
+
+
+<HeadContent>
+
+	@if ( isColorSchemeAuto )
+	{
+		<!-- (prefers-color-scheme: light) -->
+		<link rel="stylesheet"
+			  href="./css/light.css"
+			  media="(prefers-color-scheme: light)" />
+
+
+		<!-- (prefers-color-scheme: dark) -->
+        <link rel="stylesheet"
+              href="_content/AntDesign/css/ant-design-blazor.dark.css"
+              media="(prefers-color-scheme: dark)" />
+
+        <link rel="stylesheet"
+              href="./css/dark.css"
+              media="(prefers-color-scheme: dark)" />
+	}
+	else
+	{
+
+		if (isColorSchemeDark)
+		{
+			<link rel="stylesheet"
+				  href="_content/AntDesign/css/ant-design-blazor.dark.css" />
+
+			<link rel="stylesheet"
+				  href="./css/dark.css" />
+		}
+		else
+		{
+			<link rel="stylesheet"
+				  href="./css/light.css" />
+		}
+
+	}
+
+</HeadContent>
+
+
+
+<ErrorBoundary @ref="errorBoundary">
+
+	<ChildContent>
+		<div class="page">
+
+			<div class="header-wrapper container-fluid">
+
+				<header class="top-navigation my-2  d-flex align-items-center rounded shadow-sm">
+
+					@* logo *@
+					<a class="logo mx-2 py-3 px-2  d-flex align-items-center " href="">
+
+						@*<img class="logo-img" src="./logo/logo-720.png">*@
+
+						<div class="" href="">Class Viewer</div>
+
+					</a>
+
+					@* space *@
+					<div class="flex-grow-1 flex-lg-grow-0"></div>
+
+					@* header menu responsive *@
+					<div class="menu-wrapper flex-grow-1 d-none d-lg-flex align-items-center ">
+
+						<div class="menu flex-grow-1">
+
+							<AntDesign.Menu Mode=AntDesign.MenuMode.Horizontal>
+
+								<AntDesign.MenuItem Key="home" RouterLink="./" RouterMatch="NavLinkMatch.All">
+									<i class="bi bi-house"></i> 主頁
+								</AntDesign.MenuItem>
+
+								<AntDesign.MenuItem Key="course" RouterLink="./Course" RouterMatch="NavLinkMatch.All">
+									<i class="bi bi-book-half"></i> 課程
+								</AntDesign.MenuItem>
+
+								@* 						<AntDesign.MenuItem Key="schedule" RouterLink="./Schedule" RouterMatch="NavLinkMatch.All">
+								日程
+								</AntDesign.MenuItem> *@
+
+								<AntDesign.MenuItem Key="about" RouterLink="./About" RouterMatch="NavLinkMatch.All">
+									<i class="bi bi-heart"></i> 關於
+								</AntDesign.MenuItem>
+
+							</AntDesign.Menu>
+
+						</div>
+
+						<div class="update-button mx-2">
+							@if (updateAvailable)
+							{
+								<AntDesign.Button Ghost Danger Type="@AntDesign.ButtonType.Default" OnClick="reloadPage">
+										<i class="bi bi-arrow-clockwise"></i> 網頁已更新，點擊重新載入
+									</AntDesign.Button>
+							}
+						</div>
+
+						<div class="theme-switcher mx-2">
+							<AntDesign.Select @bind-Value="@selectedColorScheme"
+											  TItem="ColorScheme"
+											  TItemValue="string"
+											  DataSource="@colorSchemes"
+											  ValueName="@nameof(ColorScheme.Value)"
+											  LabelName="@nameof(ColorScheme.Name)"
+											  DefaultValue="@("os_default")"
+											  OnSelectedItemChanged="OnSelectedColorScheme"
+											  Bordered="false"
+											  ShowArrowIcon=false
+											  DropdownMatchSelectWidth=false>
+
+								<LabelTemplate>
+									<AntDesign.Select.LabelTemplateItem Context="item"
+																		TItem="ColorScheme"
+																		TItemValue="string">
+
+										<LabelTemplateItemContent>
+											<span class="ant-select-selection-item">
+												<i class="@selectedColorSchemeIcon"></i> Theme
+											</span>
+										</LabelTemplateItemContent>
+
+									</AntDesign.Select.LabelTemplateItem>
+								</LabelTemplate>
+
+								<ItemTemplate>
+									<span>
+										<i class="@context.Icon"></i> @context.Name
+									</span>
+								</ItemTemplate>
+
+							</AntDesign.Select>
+						</div>
+
+						<div class="info-wrapper mx-2 me-3">
+							<a target="_blank" href="https://github.com/reyzu-project0/ReYzu-class-viewer" class="info-icon">
+								<i class="bi bi-github" style="font-size: 1.3rem;"></i>
+							</a>
+						</div>
+
+					</div>
+
+					@* mobile *@
+					<div class="menu-wrapper-mobile  d-flex d-lg-none align-items-center ">
+
+						<div class="update-button mx-2">
+							@if (updateAvailable)
+							{
+								<AntDesign.Button Ghost Danger Type="@AntDesign.ButtonType.Default" OnClick="reloadPage">
+										<i class="bi bi-arrow-clockwise"></i> 網頁已更新，點擊重新載入
+									</AntDesign.Button>
+							}
+						</div>
+
+						<div class="menu-btn mx-2 me-3">
+							<a @onclick="SidebarOpen" class="info-icon">
+								<i class="fa-solid fa-bars fa-xl"></i>
+							</a>
+						</div>
+
+					</div>
+
+				</header>
+
+			</div>
+
+			@if (!((int)BreakpointCurrent > (int)AntDesign.BreakpointType.Lg))
+			{
+				@* mobile *@
+				<div id="sidebar-menu-wrapper">
+					<AntDesign.Drawer Closable="false" Visible="sidebarVisible" Placement="right" OnClose="SidebarClose" Width="300">
+
+						@* logo *@
+						<a class="logo d-flex p-3 justify-content-center" href="">
+
+							<div class="" href="">Class Viewer</div>
+
+						</a>
+
+						<div class="button-wrapper d-flex justify-content-evenly align-items-center">
+
+							<div class="theme-switcher px-2">
+								<AntDesign.Select @bind-Value="@selectedColorScheme"
+												  TItem="ColorScheme"
+												  TItemValue="string"
+												  DataSource="@colorSchemes"
+												  ValueName="@nameof(ColorScheme.Value)"
+												  LabelName="@nameof(ColorScheme.Name)"
+												  DefaultValue="@("os_default")"
+												  OnSelectedItemChanged="OnSelectedColorScheme"
+												  Bordered="false"
+												  ShowArrowIcon=false
+												  DropdownMatchSelectWidth=false>
+
+									<LabelTemplate>
+										<AntDesign.Select.LabelTemplateItem Context="item"
+																			TItem="ColorScheme"
+																			TItemValue="string">
+
+											<LabelTemplateItemContent>
+												<span class="ant-select-selection-item">
+													<i class="@selectedColorSchemeIcon"></i> Theme
+												</span>
+											</LabelTemplateItemContent>
+
+										</AntDesign.Select.LabelTemplateItem>
+									</LabelTemplate>
+
+									<ItemTemplate>
+										<span>
+											<i class="@context.Icon"></i> @context.Name
+										</span>
+									</ItemTemplate>
+
+								</AntDesign.Select>
+							</div>
+
+							<div class="info-wrapper px-2">
+								<a target="_blank" href="https://github.com/reyzu-project0/ReYzu-class-viewer" class="info-icon">
+									<i class="bi bi-github" style="font-size: 1.3rem;"></i> Github
+								</a>
+							</div>
+
+						</div>
+
+						<hr />
+
+						<div class="menu ">
+							<AntDesign.Menu Mode=AntDesign.MenuMode.Vertical OnMenuItemClicked="SidebarClose">
+
+								<AntDesign.MenuItem Key="home" RouterLink="./" RouterMatch="NavLinkMatch.All">
+									<i class="bi bi-house"></i> 主頁
+								</AntDesign.MenuItem>
+
+								<AntDesign.MenuItem Key="course" RouterLink="./Course" RouterMatch="NavLinkMatch.All">
+									<i class="bi bi-book-half"></i> 課程
+								</AntDesign.MenuItem>
+
+								@* 						<AntDesign.MenuItem Key="schedule" RouterLink="./Schedule" RouterMatch="NavLinkMatch.All">
+							日程
+							</AntDesign.MenuItem> *@
+
+								<AntDesign.MenuItem Key="about" RouterLink="./About" RouterMatch="NavLinkMatch.All">
+									<i class="bi bi-heart"></i> 關於
+								</AntDesign.MenuItem>
+
+							</AntDesign.Menu>
+						</div>
+
+					</AntDesign.Drawer>
+				</div>
+			}
+
+
+			<div class="main-wrapper">
+
+				<CascadingValue Value="@cascadeColorScheme" Name="CascadeColorScheme">
+					<main class="main-content">
+						@Body
+					</main>
+				</CascadingValue>
+
+			</div>
+
+
+			<div class="background-wrapper">
+
+				<div class="page-background-mask"></div>
+
+			</div>
+
+
+			<!-- Listen Breakpoint -->
+			<!-- visually-hidden -->
+			<div class="visually-hidden">
+				<AntDesign.GridRow OnBreakpoint="BreakpointHandler">
+					@* Current break point *@
+					@*@foreach (var type in types)
+					{
+					if ((int)type <= (int)current)
+					{
+					<AntDesign.Tag Color="@AntDesign.PresetColor.Blue.ToString()">@type</AntDesign.Tag>
+					}
+					}*@
+				</AntDesign.GridRow>
+			</div>
+
+
+		</div>
+	</ChildContent>
+
+	<ErrorContent Context="ex">
+		@{
+			ShowErrorNotification( ex );
+		}
+	</ErrorContent>
+
+</ErrorBoundary>
+
+

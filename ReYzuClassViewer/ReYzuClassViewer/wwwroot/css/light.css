@@ -1,0 +1,20 @@
+﻿
+body {
+    --page-background-mask-background-color: rgba(255,255,255,0.5);
+    --top-navigation-background-color: rgba(255,255,255,0.6);
+            
+
+    --top-navigation-logo-color: rgba(23,23,23,1);
+    --top-navigation-logo-vr-color: rgba(80,80,80,1);
+    --top-navigation-info-icon-color: rgba(0,0,0,0.85);
+    /*    rgba(255,255,255,0.55*/
+
+    --page-title-color: rgba(0, 0, 0, 0.85);
+    --page-subtitle-color: rgba(0, 0, 0, 0.45);
+
+    --card-widget-background-color: rgba(255,255,255,1);
+
+    --modal-close-color: rgba( 0,0,0,0.5 );
+    --modal-close-hover-color: rgba( 0,0,0,1 );
+
+}

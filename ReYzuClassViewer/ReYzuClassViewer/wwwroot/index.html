@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#97cef4" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#195075" />
+
+    <title>Class Viewer - ReYzu</title>
+
+    <base href="/" />
+    <!--<base href="/ReYzu-class-viewer/" />-->
+
+
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+
+    <link href="manifest.json" rel="manifest" />
+
+
+    <!-- bootstrap -->
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+    <!-- AntDesign -->
+    <link href="_content/AntDesign/css/ant-design-blazor.css" rel="stylesheet">
+    <script src="_content/AntDesign/js/ant-design-blazor.js"></script>
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/f6ddf04e07.js" crossorigin="anonymous"></script>
+
+    <!-- waline -->
+    <link href="https://unpkg.com/@waline/client@v2/dist/waline.css" rel="stylesheet" />
+    <!--<script type="module" src="/waline.js"></script>-->
+    <!-- ReYzuClassViewer -->
+    <link href="css/loading.css" rel="stylesheet" />
+
+    <link href="css/light.css" rel="stylesheet" />
+    <link href="css/app.css" rel="stylesheet" />
+
+    <link href="css/components.css" rel="stylesheet" />
+    <script src="js/components.js"></script>
+
+    <link href="ReYzuClassViewer.styles.css" rel="stylesheet" />
+
+
+    <!-- Start Single Page Apps for GitHub Pages -->
+    <script type="text/javascript">
+        // Single Page Apps for GitHub Pages
+        // MIT License
+        // https://github.com/rafgraph/spa-github-pages
+        // This script checks to see if a redirect is present in the query string,
+        // converts it back into the correct url and adds it to the
+        // browser's history using window.history.replaceState(...),
+        // which won't cause the browser to attempt to load the new url.
+        // When the single page app is loaded further down in this file,
+        // the correct url will be waiting in the browser's history for
+        // the single page app to route accordingly.
+        (function (l)
+        {
+            if (l.search[1] === '/') {
+                var decoded = l.search.slice(1).split('&').map(function (s)
+                {
+                    return s.replace(/~and~/g, '&')
+                }).join('?');
+                window.history.replaceState(null, null,
+                    l.pathname.slice(0, -1) + decoded + l.hash
+                );
+            }
+        }(window.location))
+    </script>
+    <!-- End Single Page Apps for GitHub Pages -->
+
+</head>
+
+<body>
+    <div id="app">
+
+        <div class="loading-progress">
+
+            <div class="loader"></div>
+
+            <div class="loading-progress-text"></div>
+
+        </div>
+
+
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+
+    <script src="_framework/blazor.webassembly.js"></script>
+
+    <!--<script>navigator.serviceWorker.register('service-worker.js', { updateViaCache: 'none' });</script>-->
+    <script src="sw-registrator.js"></script>
+
+    <script src="_content/Blazor-Analytics/blazor-analytics.js"></script>
+
+</body>
+
+</html>

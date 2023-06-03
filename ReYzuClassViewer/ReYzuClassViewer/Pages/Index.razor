@@ -1,0 +1,180 @@
+﻿@page "/"
+
+<PageTitle>主頁 | Class Viewer - ReYzu</PageTitle>
+
+
+<style>
+
+/*     @@import url("/css/components.css"); */
+
+</style>
+
+
+<div class="main-page-content container-lg">
+
+    @* page-title *@
+    <div class="page-title-wrapper my-3">
+
+        <h4 class="page-title">主頁</h4>
+        <h6 class="page-subtitle">Class Viewer</h6>
+
+    </div>
+
+    @* cards *@
+    <div class="cards-wrapper row gy-1 ">
+
+        @* 日程 *@
+        <div class="col-12 col-md-5">
+
+            <div class="card-widget">
+
+                <h6><i class="bi bi-calendar-event"></i> 日程</h6>
+
+                <br />
+
+                @if (commentLoading)
+                {
+                    <AntDesign.Skeleton Active="true"></AntDesign.Skeleton>
+                }
+                else
+                {
+                    <h6 class="page-subtitle mb-2 ">
+                        @(scheduleState + "日程")
+                    </h6>
+                    <h4 class="page-title">@scheduleName</h4>
+                }
+                
+                <br />
+
+                <h6 class="page-subtitle mb-2 ">剩餘</h6>
+                @if (commentLoading)
+                {
+                    <AntDesign.Skeleton Active="true"></AntDesign.Skeleton>
+                }
+                else
+                {
+                    <h4 class="page-title">
+                        <AntDesign.CountDown Value=@( scheduleTime.LocalDateTime ) Format="d 天  h 小時 m 分鐘 s 秒" />
+                    </h4>
+                    <h6 class="page-subtitle">@scheduleTime.LocalDateTime</h6>
+                }
+
+                <br />
+
+                <div>
+                    <AntDesign.Button Block NoSpanWrap>
+                        <a target="_blank" href="https://www.yzu.edu.tw/admin/aa/index.php/tw/2016-01-14-06-58-46/2016-03-08-03-41-34/2016-03-08-03-50-32" class="info-link">
+                            查看完整日程
+                        </a>
+                    </AntDesign.Button>
+                </div>
+                
+            </div>
+
+        </div>
+
+        @* Comment *@
+        <div class="col-12 col-md-4">
+
+            <div class="card-widget">
+
+                <h6><i class="bi bi-chat-dots"></i> 課程評論</h6>
+
+                <br />
+
+                <h6 class="page-subtitle"><i class="bi bi-graph-up"></i> 評論總數</h6>
+                @if ( commentLoading )
+                {
+                    <AntDesign.Skeleton Active="true"></AntDesign.Skeleton>
+                }
+                else
+                {
+                    <h4 class="page-title">@commentsCount</h4>
+                }
+
+                <br />
+
+                <h6 class="page-subtitle"><i class="bi bi-clock-history"></i> 最新評論</h6>
+                @if (commentLoading)
+                {
+                    <AntDesign.Skeleton Active="true"></AntDesign.Skeleton>
+                }
+                else
+                {
+                    @foreach (var comment in Comments)
+                    {
+                        <p class="comment-content">
+                            @comment.TextContent
+                        </p>
+                        <p class="page-subtitle">
+                            @comment.Url | @comment.Time
+                        </p>
+
+                        <hr />
+                    }
+                }
+
+
+            </div>
+
+        </div>
+
+        @* 公告 *@
+        <div class="col-12 col-md-3">
+
+            <div class="card-widget">
+
+                <h6><i class="bi bi-megaphone"></i> 公告</h6>
+
+                <br />
+
+                @if (commentLoading)
+                {
+                    <AntDesign.Skeleton Active="true"></AntDesign.Skeleton>
+                }
+                else
+                {
+                    <AntDesign.AntList DataSource="@Announcements">
+
+                        <AntDesign.ListItem>
+
+                            <AntDesign.ListItemMeta Description=@context.Time>
+
+                                <TitleTemplate>
+                                    <a target="_blank" href=@context.Url>@context.Title</a>
+                                </TitleTemplate>
+
+                            </AntDesign.ListItemMeta>
+
+                        </AntDesign.ListItem>
+
+                    </AntDesign.AntList>
+                }
+                
+
+                <br />
+
+                <div>
+                    <AntDesign.Button Block NoSpanWrap>
+                        <a target="_blank" href="https://github.com/reyzu-project0/ReYzu-class-viewer/blob/main/Announcement.md" class="info-link">
+                            查看所有公告
+                        </a>
+                    </AntDesign.Button>
+                </div>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+    
+</div>
+
+
+
+
+
+

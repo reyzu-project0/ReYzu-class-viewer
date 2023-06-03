@@ -1,0 +1,33 @@
+﻿
+.info-link {
+    color: var(--top-navigation-info-icon-color);
+}
+
+
+.page-title {
+    color: var(--page-title-color);
+}
+
+.page-subtitle {
+    color: var(--page-subtitle-color);
+}
+
+
+.card-widget {
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: var(--card-widget-background-color);
+    border-radius: 8px;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+    /*    0 3px 8px 6px rgba(7,17,27,0.05);*/
+}
+
+
+/**/
+body {
+    --top-navigation-height: 60px;
+    --table-filters-wrapper-max-height: 33px;
+
+/*    --sidebar-course-width: 420px;*/
+}
+

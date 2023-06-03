@@ -1,0 +1,330 @@
+﻿@page "/Course"
+
+@inject IJSRuntime JS
+@implements IAsyncDisposable
+
+<PageTitle>課程 | Class Viewer - ReYzu</PageTitle>
+
+
+
+<div class="main-page-content container-fluid">
+
+    @* course filters *@
+    <div class="table-filters-wrapper mt-1 mb-2">
+
+        <div class="course-filters d-flex align-items-center">
+            <AntDesign.Popover Placement="AntDesign.Placement.BottomLeft"
+                               Trigger="@(new AntDesign.Trigger[] { AntDesign.Trigger.Click})"
+                               OnVisibleChange="onCourseFiltersVisibleChange" 
+                               Visible="courseFiltersVisible">
+
+                 <ChildContent>
+                    <AntDesign.Button Type="@AntDesign.ButtonType.Text" OnClick="switchCourseFilters" Loading=selectDepartmentLoading>
+                        <div class="d-flex gap-3">
+
+                            <div class="selected-item">
+                                @labelSelectedSemester
+                            </div>
+
+                            <div>/</div>
+
+                            <div class="selected-item">
+                                @labelSelectedDepartment
+                            </div>
+
+                            @* <div>/</div>
+
+                            <div class="selected-item">
+                                @labelSelectedDegree 
+                            </div> *@
+
+                            <div class="">
+                                <i class="bi bi-caret-down-fill" style="font-size: 0.6rem;"></i>
+                            </div>
+
+                        </div>
+                    </AntDesign.Button>
+                 </ChildContent>
+
+
+                <TitleTemplate>
+                    <div class="d-flex justify-content-between">
+                        <span>Search</span>
+                        <a class="modal-close" @onclick="switchCourseFilters">
+                            <i class="bi bi-x"></i>
+                        </a>
+                    </div>
+                </TitleTemplate>
+
+                <ContentTemplate>
+                    <div class="select-wrapper row gy-3">
+
+                         <div class="col-12 col-sm ">
+
+                            <div class="mb-1">學期</div>
+
+                            <AntDesign.Select id="semester-select"
+                                              @bind-Value="@selectedSemester"
+                                              TItem="YearSemester"
+                                              TItemValue="YearSemester"
+                                              DataSource="@semesters"
+                                              LabelName="@nameof(YearSemester.YearAndSemester)"
+                                              OnSelectedItemChanged="OnSelectedSemesterChanged"
+                                              DefaultActiveFirstOption=true
+                                              DropdownMatchSelectWidth=false
+                                              EnableSearch
+                                              ShowArrowIcon=false
+                                              PopupContainerSelector="#semester-select">
+
+                             </AntDesign.Select>
+                         </div>
+
+                         <div class="col-12 col-sm">
+
+                             <div class="mb-1">開課系所</div>
+                             
+                             <AntDesign.Select id="department-select"
+                                               @bind-Value="@selectedDepartment"
+                                               TItem="Department"
+                                               TItemValue="Department"
+                                               DataSource="@departments"
+                                               LabelName="@nameof(Department.Name)"
+                                               OnSelectedItemChanged="OnSelectedDepartmentChanged"
+                                               DefaultActiveFirstOption=true
+                                               DropdownMatchSelectWidth=false
+                                               EnableSearch
+                                               ShowArrowIcon=false
+                                               PopupContainerSelector="#department-select">
+                             </AntDesign.Select>
+                         </div>
+
+                         @* <div class="col-12 col-sm">
+
+                             <div class="mb-1">開課年級</div>
+                             
+                             <AntDesign.Select id="degree-select"
+                                               @bind-Value="@selectedDegree"
+                                               TItem="Degree"
+                                               TItemValue="Degree"
+                                               DataSource="@degrees"
+                                               LabelName="@nameof(Degree.Name)"
+                                               OnSelectedItemChanged="OnSelectedDegreeChanged"
+                                               DefaultActiveFirstOption=true
+                                               DropdownMatchSelectWidth=false
+                                               EnableSearch
+                                               ShowArrowIcon=false
+                                               PopupContainerSelector="#degree-select">
+                             </AntDesign.Select>
+                         </div> *@
+
+                     </div>
+                 </ContentTemplate>
+             </AntDesign.Popover>
+        </div>
+
+
+    </div>
+
+    @* cards *@
+    <div class="cards-wrapper ">
+
+        @* table *@
+        <div class="card-widget">
+             <AntDesign.Table DataSource="courseData"
+                              HidePagination="true"
+                              Loading=@tableLoading
+                              EnableVirtualization
+                              ScrollX="1186px"
+                              ScrollY="calc( ( 100vh - var(--top-navigation-height) - var(--table-filters-wrapper-max-height) ) - 3rem - 70px );"
+                              ScrollBarWidth="8px">
+                 @* ScrollX= sum of columns *@
+                 @* ScrollY= 100vh - height - marign,padding - table header *@
+
+                 <AntDesign.PropertyColumn Title="課號班別"
+                                           Property="@( Data => Data.CourseID + " " + Data.CourseClass )"
+                                           Filterable
+                                           Width="89px"/>
+
+                 <AntDesign.PropertyColumn Title="開課年級" 
+                                           Property="@( Data => Data.Degree )"
+                                           Filterable
+                                           Sortable
+                                           Width="91px" />
+
+                 <AntDesign.PropertyColumn Title="課程名稱"
+                                           Property="@( Data => Data.CourseName )"
+                                           Filterable
+                                           Width="300px" >
+
+                     <AntDesign.Button Type="@AntDesign.ButtonType.Dashed"
+                                       OnClick="@( _ => openSidebarCourse( context ) )">
+                            @context.CourseName
+                     </AntDesign.Button>
+
+                 </AntDesign.PropertyColumn>
+
+                 <AntDesign.PropertyColumn Title="授課教師"
+                                           Property="@( Data => Data.TeacherName + $" ({Data.TeacherNameEn})" )"
+                                           Filterable
+                                           Width="220px" />
+                
+                 <AntDesign.PropertyColumn Title="評分"
+                                           Property="@( Data => Data.CourseRating )"
+                                           Filterable
+                                           Sortable
+                                           Width="91px" >
+
+                     @context.CourseRating?.ToString("0.0")
+
+                 </AntDesign.PropertyColumn>
+
+                 <AntDesign.PropertyColumn Title="選別"
+                                           Property="@( Data => Data.TypeName )"
+                                           Filterable
+                                           Width="95px" />
+
+                 <AntDesign.PropertyColumn Title="時間,教室"
+                                           Property="@( Data => Data.ClassTime )"
+                                           Filterable
+                                           Sortable
+                                           Width="300px" />
+
+             </AntDesign.Table>
+        </div>
+
+    </div>
+
+</div>
+
+
+ @* sidebar - course info *@
+ <div id="sidebar-course-info-wrapper">
+     <AntDesign.Drawer Mask=false
+                       MaskClosable=false
+                       Closable=true
+                       Visible="sidebarCourseVisible"
+                       OnClose="onSidebarCourseClose"
+                       Placement="right"
+                       Width="420"
+                       Title="@("")">
+         @* Width="420" *@
+         <h3>@selectedCourseData?.CourseName</h3>
+
+         <div class="rating-simple-wrapper d-flex align-items-end">
+
+            @if (selectedCourseData?.CourseRatingPercentages is null)
+            {
+                <text>尚無評分</text>
+            }
+            else
+            {
+                <span class="me-2">@selectedCourseData?.CourseRating</span>
+
+                <AntDesign.Rate Disabled
+                                 Value="@( Convert.ToDecimal(selectedCourseData?.CourseRating) )"
+                                 AllowHalf="true"
+                                 Style="font-size: 16px;" />
+
+                <span class="ms-2">(@selectedCourseData?.CourseRatingCount)</span>
+            }
+
+         </div>
+
+         <hr />
+
+         <div class="course-info-wrapper">
+
+             <div class="info-item d-flex align-items-center">
+                 <i class="bi bi-book" style="font-size: 1.5rem;"></i>
+                 <div class="ms-3">@(selectedCourseData?.CourseID + " " + selectedCourseData?.CourseClass)</div>
+             </div>
+
+             <div class="info-item d-flex align-items-center">
+                 <i class="bi bi-123" style="font-size: 1.5rem;"></i>
+                 <div class="ms-3">@selectedCourseData?.Degree 年級</div>
+             </div>
+
+             <div class="info-item d-flex align-items-center">
+                 <i class="bi bi-person" style="font-size: 1.5rem;"></i>
+                 <div class="ms-3">@selectedCourseData?.TeacherName</div>
+             </div>
+
+             <div class="info-item d-flex align-items-center">
+                 <i class="bi bi-pen" style="font-size: 1.5rem;"></i>
+                 <div class="ms-3">@selectedCourseData?.TypeName</div>
+             </div>
+
+             <div class="info-item d-flex align-items-center">
+                 <i class="bi bi-calendar-event" style="font-size: 1.5rem;"></i>
+                 <div class="ms-3">@selectedCourseData?.ClassTime</div>
+             </div>
+
+             <div class="info-item d-flex align-items-center">
+                 <i class="bi bi-link" style="font-size: 1.5rem;"></i>
+
+                 <div class="ms-3">
+                    <a target="_blank" href="@getCourseUrl()"
+                       class="info-link">
+                        詳細資訊
+                    </a>
+                 </div>
+             </div>
+
+         </div>
+
+         <hr />
+
+        <div class="rating-wrapper d-flex justify-content-between">
+
+            @if (selectedCourseData?.CourseRatingPercentages is null)
+            {
+                <text>尚無評分</text>
+            }
+            else
+            {
+
+                <div class="rating-percentages ">
+                    @for (int i = 5; i > 0; i--)
+                    {
+                        // percentage string to float
+                        float percent = float.Parse( selectedCourseData.CourseRatingPercentages[i - 1].Replace( "%", "" ) );
+
+                        <div class="rating-item d-flex my-1">
+                            <span class="me-3">@i</span>
+                            <div class="rating-progress">
+                                <AntDesign.Progress Percent=percent ShowInfo=false StrokeColor="@("#fbbc04")" StrokeWidth="8" />
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="rating-statistic  d-flex flex-column align-items-center">
+
+                    <div class="rating-average">@selectedCourseData?.CourseRating?.ToString("0.0")</div>
+
+                    <AntDesign.Rate Disabled
+                                     Value="@( Convert.ToDecimal(selectedCourseData?.CourseRating) )"
+                                     AllowHalf="true"
+                                     Style="font-size: 14px;" />
+
+                    <div class="">@selectedCourseData?.CourseRatingCount 則評價</div>
+                </div>
+
+            }
+
+         </div>
+
+         <hr />
+
+         <div id="waline"></div>
+
+     </AntDesign.Drawer>
+ </div>
+
+
+
+
+
+
+
+
