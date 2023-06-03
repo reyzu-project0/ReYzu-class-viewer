@@ -125,10 +125,7 @@ for year_semester in year_semester_list:
     _year = year_semester["Year"]
     _semester = year_semester["Semester"]
 
-    # for test
-    if not ( _year == "112" and _semester == "1"):
-        print("skip" ,_year , _semester )
-        continue
+
     # create folder - year
     year_path = file_folder / _year
     pathlib.Path.mkdir( year_path , exist_ok=True )
