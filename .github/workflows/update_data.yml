@@ -2,8 +2,13 @@ name: Update data
 run-name: Update data
 
 on:
+
   # Manually running a workflow
-  workflow_dispatch
+  workflow_dispatch:
+
+  schedule:
+    # every day at 00:00 UTC
+    - cron: "0 0 * * *"
 
 jobs:
 
@@ -161,7 +166,7 @@ jobs:
            
       - name: git commit
         working-directory: ./data
-        run: git commit -m "github-actions[bot] - Update branch - data"
+        run: git commit -m "github-actions[bot] - Update data"
         
       - name: git push
         working-directory: ./data
