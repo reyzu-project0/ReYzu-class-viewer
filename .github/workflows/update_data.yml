@@ -1,5 +1,5 @@
-name: Update branch - data
-run-name: Update branch - data
+name: Update data
+run-name: Update data
 
 on:
   # Manually running a workflow
@@ -8,7 +8,7 @@ on:
 jobs:
 
   update_data:
-    name: Update branch - data
+    name: Update data
     environment: Dev
     runs-on: ubuntu-latest
     
