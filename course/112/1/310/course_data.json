@@ -234,6 +234,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EI307",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"電機機械",
+        "TeacherName":"待聘",
+        "TeacherNameEn":null,
+        "ClassTime":"108 () 109 () 110 ()",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EI310",
         "CourseClass":"A",
         "Degree":3,
@@ -358,6 +371,19 @@
         "TeacherName":"黃能添",
         "TeacherNameEn":"Neng-Tien Huang",
         "ClassTime":"407 (70802) 408 (70802)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EI405",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"機器人概論",
+        "TeacherName":"待聘",
+        "TeacherNameEn":null,
+        "ClassTime":"302 () 303 () 304 ()",
         "TypeName":"選修",
         "CourseRatingCount":null,
         "CourseRating":null,
