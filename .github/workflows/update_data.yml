@@ -176,7 +176,7 @@ jobs:
            
       - name: git commit
         working-directory: ./data
-        run: git commit -m "github-actions[bot] - Update data"
+        run: git commit -m "Update data"
         
       - name: git push
         working-directory: ./data
