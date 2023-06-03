@@ -138,9 +138,11 @@ jobs:
           name: data
           retention-days: 2
           path: |
-            main/scripts/data
-      
-      
+            main/scripts/data/class-viewer
+            main/scripts/data/course
+            main/scripts/data/rating
+  
+  
       # copy to branch: data folder -----    
       - name: copy to folder - data
         working-directory: .
