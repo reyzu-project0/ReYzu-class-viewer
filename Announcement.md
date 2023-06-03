@@ -4,7 +4,7 @@
 
 ### Class Viewer Release 0.3.0
 
-`2023-6-2 23:00`
+`2023-6-3 23:00`
 
 - Full Changelog: [0.3.0](Changelog.md#030)
 
