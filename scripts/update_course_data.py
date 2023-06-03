@@ -172,9 +172,9 @@ for year_semester in year_semester_list:
 
     
     # stop when reach the current year_semester
-    # if _year == year_semester_current_dict["Year"] and _semester == year_semester_current_dict["Semester"] :
-    #     print( "Finished - reach the current year_semester" )
-    #     break
+    if _year == year_semester_current_dict["Year"] and _semester == year_semester_current_dict["Semester"] :
+        print( "Finished - reach the current year_semester" )
+        break
 
 
     # API Rate Limiting
