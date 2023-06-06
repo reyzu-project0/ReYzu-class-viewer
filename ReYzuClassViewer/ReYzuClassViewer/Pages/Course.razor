@@ -134,7 +134,7 @@
                               HidePagination="true"
                               Loading=@tableLoading
                               EnableVirtualization
-                              ScrollX="1186px"
+                              ScrollX="1215"
                               ScrollY="calc( ( 100vh - var(--top-navigation-height) - var(--table-filters-wrapper-max-height) ) - 3rem - 70px );"
                               ScrollBarWidth="8px">
                  @* ScrollX= sum of columns *@
@@ -143,13 +143,13 @@
                  <AntDesign.PropertyColumn Title="課號班別"
                                            Property="@( Data => Data.CourseID + " " + Data.CourseClass )"
                                            Filterable
-                                           Width="89px"/>
+                                           Width="105px"/>
 
                  <AntDesign.PropertyColumn Title="開課年級" 
                                            Property="@( Data => Data.Degree )"
                                            Filterable
                                            Sortable
-                                           Width="91px" />
+                                           Width="95px" />
 
                  <AntDesign.PropertyColumn Title="課程名稱"
                                            Property="@( Data => Data.CourseName )"
@@ -172,7 +172,7 @@
                                            Property="@( Data => Data.CourseRating )"
                                            Filterable
                                            Sortable
-                                           Width="91px" >
+                                           Width="95px" >
 
                      @context.CourseRating?.ToString("0.0")
 
@@ -181,7 +181,7 @@
                  <AntDesign.PropertyColumn Title="選別"
                                            Property="@( Data => Data.TypeName )"
                                            Filterable
-                                           Width="95px" />
+                                           Width="100px" />
 
                  <AntDesign.PropertyColumn Title="時間,教室"
                                            Property="@( Data => Data.ClassTime )"
