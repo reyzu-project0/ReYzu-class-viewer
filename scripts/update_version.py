@@ -37,7 +37,6 @@ with open( file_path , mode='r' ) as file:
 #region update data
 
 version_json["CourseData"] = f"{time_now:%Y-%m-%d %H:%M:%S}"
-version_json["CourseSchedule"] = f"{time_now:%Y-%m-%d %H:%M:%S}"
 
 #endregion
 
