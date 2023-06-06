@@ -19,7 +19,7 @@ namespace ReYzuClassViewer.Pages
 
 
         #region version
-        string clientVersionCurrent = "0.3.0";
+        string clientVersionCurrent = "0.3.1";
         string clientVersion = "Loading";
         string courseVersion = "Loading";
         string scheduleVersion = "Loading";
