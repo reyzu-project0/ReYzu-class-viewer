@@ -8,9 +8,15 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM112",
@@ -21,9 +27,15 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"402 (1102) 403 (1102) 404 (1102)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM119",

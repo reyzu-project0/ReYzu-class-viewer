@@ -655,5 +655,18 @@
             "100.0%",
             "0.0%"
         ]
+    },
+    {
+        "CourseName":"計算機概論",
+        "TeacherName":"謝瑞建",
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     }
 ]
