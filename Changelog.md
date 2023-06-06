@@ -2,6 +2,20 @@
 
 ---
 
+### 0.3.1
+
+`2023-6-7`
+
+- Table
+  - modify column size
+  
+- Sidebar
+  - fix table border rounded , prevent behind the popover
+
+- index.html
+  - add Open Graph
+
+
 ### 0.3.0
 
 `2023-6-2`
