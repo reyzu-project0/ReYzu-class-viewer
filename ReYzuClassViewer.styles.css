@@ -20,13 +20,19 @@
 
 
 .card-widget[b-hx4ocoltsy] {
-    padding: 1px;
+    padding: 2px;
 }
 
 
 /**/
+[b-hx4ocoltsy] .ant-drawer {
+    /* prevent behind the popover */
+    z-index: 1080;
+}
+
 [b-hx4ocoltsy] .ant-drawer-content-wrapper {
     width: 450px !important;
+    
 }
 
 
