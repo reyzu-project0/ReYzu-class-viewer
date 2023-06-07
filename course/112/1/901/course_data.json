@@ -403,19 +403,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GS450",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"企業永續發展概論",
-        "TeacherName":"尤淨纓",
-        "TeacherNameEn":"Ching-Ying Yu",
-        "ClassTime":"406 () 407 ()",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"FC003",
         "CourseClass":"N",
         "Degree":1,
@@ -1059,6 +1046,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"GS450",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"企業永續發展概論",
+        "TeacherName":"尤淨纓",
+        "TeacherNameEn":"Ching-Ying Yu",
+        "ClassTime":"406 () 407 ()",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"ID001",
         "CourseClass":"A",
         "Degree":1,
@@ -1207,14 +1207,14 @@
         "TeacherNameEn":null,
         "ClassTime":"503 () 504 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":2.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -1226,14 +1226,14 @@
         "TeacherNameEn":null,
         "ClassTime":"506 () 507 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":2.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -1704,14 +1704,14 @@
         "TeacherNameEn":"Yuh-Chia Chang",
         "ClassTime":"401 () 402 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":4.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%"
+            "50.0%",
+            "50.0%"
         ]
     },
     {

@@ -1642,14 +1642,14 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (1102) 504 (1102)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":2.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -1661,14 +1661,14 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (60203) 507 (60203)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":2.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -2229,14 +2229,14 @@
         "TeacherNameEn":"Yuh-Chia Chang",
         "ClassTime":"403 (2101) 404 (2101)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":4.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%"
+            "50.0%",
+            "50.0%"
         ]
     },
     {

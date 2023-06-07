@@ -164,9 +164,15 @@
         "TeacherNameEn":"Wei-Tyng Hong",
         "ClassTime":"402 (70101) 403 (70101) 404 (70101)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"EI211",
@@ -177,9 +183,15 @@
         "TeacherNameEn":"Wei-Tyng Hong",
         "ClassTime":"202 (70205) 203 (70205) 204 (70205)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"EI219",

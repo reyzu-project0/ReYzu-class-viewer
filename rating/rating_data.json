@@ -61,14 +61,14 @@
     {
         "CourseName":"中醫概論與中醫保健",
         "TeacherName":"張育佳",
-        "CourseRatingCount":1,
-        "CourseRating":4.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%"
+            "50.0%",
+            "50.0%"
         ]
     },
     {
@@ -373,14 +373,14 @@
     {
         "CourseName":"旅遊桃園史",
         "TeacherName":"陳錦昌",
-        "CourseRatingCount":1,
-        "CourseRating":2.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -666,6 +666,32 @@
             "0.0%",
             "0.0%",
             "100.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseName":"工程機率",
+        "TeacherName":"洪維廷",
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseName":"服務科學導論",
+        "TeacherName":"陳啟光",
+        "CourseRatingCount":1,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
             "0.0%"
         ]
     }
