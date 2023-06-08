@@ -13,19 +13,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"IE507",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"數學規劃（一）",
-        "TeacherName":"梁韵嘉",
-        "TeacherNameEn":"Yun-Chia Liang",
-        "ClassTime":"502 () 503 () 504 ()",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"IE531",
         "CourseClass":"B",
         "Degree":1,

@@ -333,9 +333,15 @@
         "TeacherNameEn":"BO-KAI, HSU",
         "ClassTime":"506 () 507 () 508 ()",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CS311",
@@ -450,9 +456,15 @@
         "TeacherNameEn":"Cheng-Zen Yang",
         "ClassTime":"102 (1201A) 103 (1201A) 104 (1201A)",
         "TypeName":"必選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CS313",

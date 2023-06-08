@@ -59,9 +59,15 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"106 (1102) 107 (1102) 108 (1102) 506 (1611) 507 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM122",
@@ -98,9 +104,15 @@
         "TeacherNameEn":"Shu-Fen Tseng",
         "ClassTime":"307 (1501A) 308 (1501A) 309 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM106",
@@ -137,14 +149,14 @@
         "TeacherNameEn":"Liang-Chih Yu",
         "ClassTime":"102 (1611) 103 (1611) 104 (1611) 109 (1611) 110 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -221,9 +233,15 @@
         "TeacherNameEn":"Chih Cheng Chen",
         "ClassTime":"506 (1501A) 507 (1501A) 508 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM239",
@@ -260,9 +278,15 @@
         "TeacherNameEn":"Fong-Ching Yuan",
         "ClassTime":"206 (1501B) 207 (1501B) 208 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM303",
@@ -312,9 +336,15 @@
         "TeacherNameEn":"Chin-Sheng Yang",
         "ClassTime":"502 (1501A) 503 (1501A) 504 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM323",
