@@ -812,5 +812,18 @@
             "0.0%",
             "100.0%"
         ]
+    },
+    {
+        "CourseName":"犯罪學",
+        "TeacherName":"待聘",
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     }
 ]
