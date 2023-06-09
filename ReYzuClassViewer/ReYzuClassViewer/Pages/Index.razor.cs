@@ -1,6 +1,6 @@
 ﻿using System.Text.Json;
 using System.Text.Json.Nodes;
-
+using System.Text.RegularExpressions;
 
 namespace ReYzuClassViewer.Pages
 {
@@ -186,26 +186,29 @@ namespace ReYzuClassViewer.Pages
 
             private void getData( string jsonString )
             {
-                
+
                 // parse json
-                JsonNode commentNode = JsonNode.Parse(jsonString)!;
+                JsonNode commentNode = JsonNode.Parse( jsonString )!;
                 JsonArray commentArray = commentNode["data"]!.AsArray();
 
                 foreach (var commentItem in commentArray)
                 {
+                    // remove HTML tags
+                    string commentResult = commentItem!["comment"]!.GetValue<string>();
+                    commentResult = Regex.Replace( commentResult, @"<.*?>|\\[a-zA-Z]", String.Empty );
 
                     var comment = new Comment()
                     {
                         Name = commentItem!["nick"]!.GetValue<string>(),
                         Url = commentItem!["url"]!.GetValue<string>(),
-                        TextContent = commentItem!["orig"]!.GetValue<string>(),
+                        TextContent = commentResult,
 
                         // UTC milliseconds to local time
                         Time = DateTimeOffset.FromUnixTimeMilliseconds( commentItem!["time"]!.GetValue<long>() ).LocalDateTime,
                     };
 
 
-                    _comments.Add(comment);
+                    _comments.Add( comment );
 
                 }
 
