@@ -86,9 +86,15 @@
         "TeacherNameEn":"Ting-Ying Chien",
         "ClassTime":"406 (1008) 407 (1008) 408 (1008)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CS107",

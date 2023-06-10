@@ -8,14 +8,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":4.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%"
+            "50.0%",
+            "50.0%"
         ]
     },
     {
@@ -27,14 +27,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"402 (1102) 403 (1102) 404 (1102)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":4.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%"
+            "50.0%",
+            "50.0%"
         ]
     },
     {
@@ -104,7 +104,7 @@
         "TeacherNameEn":"Shu-Fen Tseng",
         "ClassTime":"307 (1501A) 308 (1501A) 309 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":2,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -297,9 +297,15 @@
         "TeacherNameEn":"Cheng-Jye Luh",
         "ClassTime":"206 (1501A) 207 (1501A) 208 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM313",

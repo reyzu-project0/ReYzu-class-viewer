@@ -112,9 +112,15 @@
         "TeacherNameEn":"Ting-Ying Chien",
         "ClassTime":"406 (1201A) 407 (1201A) 408 (1201A)",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CS107",

@@ -112,9 +112,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"307 (60209) 308 (60209) 309 (60209) 409 (60209)",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",
@@ -125,9 +131,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"106 (60209) 107 (60209) 108 (60209) 210 (60209)",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",

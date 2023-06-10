@@ -138,9 +138,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"106 () 107 () 108 () 210 ()",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",
@@ -151,9 +157,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"206 () 207 () 208 () 310 ()",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",

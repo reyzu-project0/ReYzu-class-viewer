@@ -112,9 +112,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"302(   ) 303(   ) 304(   )",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM116",
@@ -255,9 +261,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"302(   ) 303(   ) 304(   )",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM116",
@@ -398,9 +410,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"302(   ) 303(   ) 304(   )",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM116",
@@ -541,9 +559,15 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"302(   ) 303(   ) 304(   )",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM116",

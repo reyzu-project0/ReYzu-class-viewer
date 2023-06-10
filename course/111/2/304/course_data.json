@@ -281,9 +281,15 @@
         "TeacherNameEn":"Lin,Yu-Cheng",
         "ClassTime":"308 (1102) 408 (1102) 409 (1102)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CS255",
