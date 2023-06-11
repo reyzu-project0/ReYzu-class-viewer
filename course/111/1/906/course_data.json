@@ -567,9 +567,15 @@
         "TeacherNameEn":null,
         "ClassTime":"203 (2111) 204 (2111)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LC103",

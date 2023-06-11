@@ -8,14 +8,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
-        "CourseRating":4.5,
+        "CourseRatingCount":3,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%"
+            "33.3%",
+            "33.3%",
+            "33.3%"
         ]
     },
     {
@@ -27,14 +27,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"402 (1102) 403 (1102) 404 (1102)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
-        "CourseRating":4.5,
+        "CourseRatingCount":3,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%"
+            "33.3%",
+            "33.3%",
+            "33.3%"
         ]
     },
     {
@@ -46,9 +46,15 @@
         "TeacherNameEn":"Jun-Lin Lin",
         "ClassTime":"206 (1611) 207 (1611) 208 (1611) 508 (1611) 509 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM119",

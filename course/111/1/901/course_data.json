@@ -684,9 +684,15 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"407 (1611) 408 (1611)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CP111",
@@ -697,9 +703,15 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"409 (1611) 410 (1611)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CP111",
@@ -884,13 +896,13 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (70110) 504 (70110)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -903,13 +915,13 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (70110) 507 (70110)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -1063,14 +1075,14 @@
         "TeacherNameEn":"Shih-Wen Kung",
         "ClassTime":"307 (3216) 308 (3216)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -1986,14 +1998,14 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"106 (3114) 107 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -2005,14 +2017,14 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"108 (3114) 109 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -2326,9 +2338,15 @@
         "TeacherNameEn":null,
         "ClassTime":"403 (1213) 404 (1213)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"LS226",

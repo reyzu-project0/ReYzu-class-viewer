@@ -228,9 +228,15 @@
         "TeacherNameEn":"Jeng-Rern Yang",
         "ClassTime":"502 (70307) 503 (70307) 504 (70307)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"EEB205",

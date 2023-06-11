@@ -99,9 +99,15 @@
         "TeacherNameEn":"Fong-Ching Yuan",
         "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",
@@ -248,9 +254,15 @@
         "TeacherNameEn":"Fong-Ching Yuan",
         "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",
@@ -397,9 +409,15 @@
         "TeacherNameEn":"Fong-Ching Yuan",
         "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",
@@ -546,9 +564,15 @@
         "TeacherNameEn":"Fong-Ching Yuan",
         "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CM105",

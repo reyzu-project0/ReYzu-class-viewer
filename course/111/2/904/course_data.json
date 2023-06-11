@@ -151,9 +151,15 @@
         "TeacherNameEn":null,
         "ClassTime":"508 (體育場地) 509 (體育場地)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"PL101",
@@ -190,9 +196,15 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (體育場地) 507 (體育場地)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"PL101",

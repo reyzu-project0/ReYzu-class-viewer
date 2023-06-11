@@ -526,13 +526,13 @@
         "TeacherNameEn":null,
         "ClassTime":"503 () 504 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -545,13 +545,13 @@
         "TeacherNameEn":null,
         "ClassTime":"506 () 507 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -692,14 +692,14 @@
         "TeacherNameEn":"Shih-Wen Kung",
         "ClassTime":"406 () 407 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -1545,14 +1545,14 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"108 () 109 ()",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {

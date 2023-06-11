@@ -47,9 +47,15 @@
         "TeacherNameEn":null,
         "ClassTime":"301 (2604) 302 (2604)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CL165",
@@ -125,9 +131,15 @@
         "TeacherNameEn":null,
         "ClassTime":"303 (2604) 304 (2604)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CL165",
@@ -151,9 +163,15 @@
         "TeacherNameEn":null,
         "ClassTime":"501 (3103) 502 (3103)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CL165",
@@ -164,9 +182,15 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (3103) 504 (3103)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"CL165",
@@ -404,32 +428,6 @@
     },
     {
         "CourseID":"CP112",
-        "CourseClass":"A5",
-        "Degree":1,
-        "CourseName":"基礎程式設計-C++實習（二）",
-        "TeacherName":"胡光泰",
-        "TeacherNameEn":"HO QUANG THAI",
-        "ClassTime":"306 (1008) 307 (1008)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CP112",
-        "CourseClass":"A6",
-        "Degree":1,
-        "CourseName":"基礎程式設計-C++實習（二）",
-        "TeacherName":"胡光泰",
-        "TeacherNameEn":"HO QUANG THAI",
-        "ClassTime":"506 (1008) 507 (1008)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CP112",
         "CourseClass":"D",
         "Degree":1,
         "CourseName":"基礎程式設計-C++實習（二）",
@@ -450,9 +448,15 @@
         "TeacherNameEn":"Cheng-Jye Luh",
         "ClassTime":"307 (1611) 308 (1611)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CP113",
@@ -463,9 +467,15 @@
         "TeacherNameEn":"Cheng-Jye Luh",
         "ClassTime":"309 (1611) 310 (1611)",
         "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"CP113",
@@ -813,13 +823,13 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (70109) 504 (70109)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -832,13 +842,13 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (70109) 507 (70109)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -864,6 +874,32 @@
         "TeacherNameEn":null,
         "ClassTime":"108 (5006) 109 (5006)",
         "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CP112",
+        "CourseClass":"A6",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C++實習（二）",
+        "TeacherName":"胡光泰",
+        "TeacherNameEn":"HO QUANG THAI",
+        "ClassTime":"506 (1008) 507 (1008)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CP112",
+        "CourseClass":"A5",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C++實習（二）",
+        "TeacherName":"胡光泰",
+        "TeacherNameEn":"HO QUANG THAI",
+        "ClassTime":"306 (1008) 307 (1008)",
+        "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
@@ -1018,14 +1054,14 @@
         "TeacherNameEn":"Shih-Wen Kung",
         "ClassTime":"406 (3103) 407 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
@@ -1852,14 +1888,14 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"408 (3103) 409 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
+            "50.0%",
             "0.0%",
-            "0.0%"
+            "50.0%"
         ]
     },
     {
