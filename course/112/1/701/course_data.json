@@ -65,7 +65,7 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"106 (1102) 107 (1102) 108 (1102) 506 (1611) 507 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":2,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -155,14 +155,14 @@
         "TeacherNameEn":"Liang-Chih Yu",
         "ClassTime":"102 (1611) 103 (1611) 104 (1611) 109 (1611) 110 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":3,
-        "CourseRating":4.3,
+        "CourseRatingCount":4,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "33.3%",
+            "25.0%",
             "0.0%",
-            "66.7%"
+            "75.0%"
         ]
     },
     {
