@@ -8,9 +8,15 @@
         "TeacherNameEn":"Yu-Chun Chiang",
         "ClassTime":"203(   ) 204(   ) 308(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"ME105",
@@ -21,9 +27,15 @@
         "TeacherNameEn":"Yu-Chun Chiang",
         "ClassTime":"201(   ) 202(   ) 307(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"ME108",
