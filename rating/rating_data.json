@@ -966,13 +966,13 @@
     {
         "CourseName":"程式設計（一）",
         "TeacherName":"林志麟",
-        "CourseRatingCount":1,
-        "CourseRating":1.0,
+        "CourseRatingCount":2,
+        "CourseRating":2.5,
         "CourseRatingPercentages":[
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -1131,5 +1131,12 @@
             "0.0%",
             "100.0%"
         ]
+    },
+    {
+        "CourseName":"自動控制",
+        "TeacherName":"陳傳生",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     }
 ]

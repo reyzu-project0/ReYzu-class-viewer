@@ -40,19 +40,6 @@
     },
     {
         "CourseID":"EL360",
-        "CourseClass":"D",
-        "Degree":1,
-        "CourseName":"英語檢定",
-        "TeacherName":"張若妍",
-        "TeacherNameEn":null,
-        "ClassTime":"406(   ) 407(   ) 408(   )",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EL360",
         "CourseClass":"E",
         "Degree":1,
         "CourseName":"英語檢定",
@@ -89,25 +76,6 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM121",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"會計學",
-        "TeacherName":"袁鳳清",
-        "TeacherNameEn":"Fong-Ching Yuan",
-        "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":1.0,
-        "CourseRatingPercentages":[
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
     },
     {
         "CourseID":"CM105",
@@ -195,19 +163,6 @@
     },
     {
         "CourseID":"EL360",
-        "CourseClass":"D",
-        "Degree":2,
-        "CourseName":"英語檢定",
-        "TeacherName":"張若妍",
-        "TeacherNameEn":null,
-        "ClassTime":"406(   ) 407(   ) 408(   )",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EL360",
         "CourseClass":"E",
         "Degree":2,
         "CourseName":"英語檢定",
@@ -244,25 +199,6 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM121",
-        "CourseClass":"A",
-        "Degree":2,
-        "CourseName":"會計學",
-        "TeacherName":"袁鳳清",
-        "TeacherNameEn":"Fong-Ching Yuan",
-        "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":1.0,
-        "CourseRatingPercentages":[
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
     },
     {
         "CourseID":"CM105",
@@ -350,19 +286,6 @@
     },
     {
         "CourseID":"EL360",
-        "CourseClass":"D",
-        "Degree":3,
-        "CourseName":"英語檢定",
-        "TeacherName":"張若妍",
-        "TeacherNameEn":null,
-        "ClassTime":"406(   ) 407(   ) 408(   )",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EL360",
         "CourseClass":"E",
         "Degree":3,
         "CourseName":"英語檢定",
@@ -399,25 +322,6 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM121",
-        "CourseClass":"A",
-        "Degree":3,
-        "CourseName":"會計學",
-        "TeacherName":"袁鳳清",
-        "TeacherNameEn":"Fong-Ching Yuan",
-        "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":1.0,
-        "CourseRatingPercentages":[
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
     },
     {
         "CourseID":"CM105",
@@ -505,19 +409,6 @@
     },
     {
         "CourseID":"EL360",
-        "CourseClass":"D",
-        "Degree":4,
-        "CourseName":"英語檢定",
-        "TeacherName":"張若妍",
-        "TeacherNameEn":null,
-        "ClassTime":"406(   ) 407(   ) 408(   )",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EL360",
         "CourseClass":"E",
         "Degree":4,
         "CourseName":"英語檢定",
@@ -554,25 +445,6 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM121",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"會計學",
-        "TeacherName":"袁鳳清",
-        "TeacherNameEn":"Fong-Ching Yuan",
-        "ClassTime":"206(   ) 207(   ) 208(   ) 302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":1.0,
-        "CourseRatingPercentages":[
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
     },
     {
         "CourseID":"CM105",

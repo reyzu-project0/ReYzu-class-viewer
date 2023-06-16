@@ -46,13 +46,13 @@
         "TeacherNameEn":"Jun-Lin Lin",
         "ClassTime":"206 (1611) 207 (1611) 208 (1611) 508 (1611) 509 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":1.0,
+        "CourseRatingCount":2,
+        "CourseRating":2.5,
         "CourseRatingPercentages":[
-            "100.0%",
+            "50.0%",
             "0.0%",
             "0.0%",
-            "0.0%",
+            "50.0%",
             "0.0%"
         ]
     },
