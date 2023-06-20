@@ -1,3 +1,15 @@
-{
-    "CourseData": null
-}
+[
+    {
+        "CourseID":"EL163",
+        "CourseClass":"Y1",
+        "Degree":1,
+        "CourseName":"大一先修英語",
+        "TeacherName":"",
+        "TeacherNameEn":null,
+        "ClassTime":"302(   ) 303(   ) 304(   ) 306(   ) 307(   ) 308(   ) 402(   ) 403(   ) 404(   ) 406(   ) 407(   ) 408(   ) 502(   ) 503(   ) 504(   ) 506(   ) 507(   ) 508(   )",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    }
+]
