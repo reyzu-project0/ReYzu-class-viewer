@@ -8,14 +8,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":3,
-        "CourseRating":4.0,
+        "CourseRatingCount":4,
+        "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "33.3%",
-            "33.3%",
-            "33.3%"
+            "25.0%",
+            "25.0%",
+            "50.0%"
         ]
     },
     {
@@ -27,14 +27,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"402 (1102) 403 (1102) 404 (1102)",
         "TypeName":"系必修",
-        "CourseRatingCount":3,
-        "CourseRating":4.0,
+        "CourseRatingCount":4,
+        "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "33.3%",
-            "33.3%",
-            "33.3%"
+            "25.0%",
+            "25.0%",
+            "50.0%"
         ]
     },
     {
@@ -65,14 +65,14 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"106 (1102) 107 (1102) 108 (1102) 506 (1611) 507 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
-        "CourseRating":5.0,
+        "CourseRatingCount":3,
+        "CourseRating":4.7,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "0.0%",
-            "100.0%"
+            "33.3%",
+            "66.7%"
         ]
     },
     {
@@ -84,9 +84,15 @@
         "TeacherNameEn":"Chia-Hsuan Yeh",
         "ClassTime":"302 (70103) 303 (70103) 304 (70103)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM127",
@@ -97,9 +103,15 @@
         "TeacherNameEn":"Chia-Hsuan Yeh",
         "ClassTime":"102 (70103) 103 (70103) 104 (70103) 406 (70103)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM409",
