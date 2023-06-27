@@ -52,6 +52,32 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA123",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"普通物理實驗（一）",
+        "TeacherName":"巴拉吉",
+        "TeacherNameEn":"BALAJI GURURAJAN",
+        "ClassTime":"106(   ) 107(   ) 108(   ) 306(   ) 307(   ) 308(   ) 506(   ) 507(   ) 508(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA242",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"電路學",
+        "TeacherName":"林鴻文",
+        "TeacherNameEn":null,
+        "ClassTime":"102(   ) 103(   ) 104(   ) 202(   ) 203(   ) 204(   ) 402(   ) 403(   ) 404(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":1,
@@ -130,6 +156,32 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA123",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"普通物理實驗（一）",
+        "TeacherName":"巴拉吉",
+        "TeacherNameEn":"BALAJI GURURAJAN",
+        "ClassTime":"106(   ) 107(   ) 108(   ) 306(   ) 307(   ) 308(   ) 506(   ) 507(   ) 508(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA242",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"電路學",
+        "TeacherName":"林鴻文",
+        "TeacherNameEn":null,
+        "ClassTime":"102(   ) 103(   ) 104(   ) 202(   ) 203(   ) 204(   ) 402(   ) 403(   ) 404(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":2,
@@ -208,6 +260,32 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA123",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"普通物理實驗（一）",
+        "TeacherName":"巴拉吉",
+        "TeacherNameEn":"BALAJI GURURAJAN",
+        "ClassTime":"106(   ) 107(   ) 108(   ) 306(   ) 307(   ) 308(   ) 506(   ) 507(   ) 508(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA242",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"電路學",
+        "TeacherName":"林鴻文",
+        "TeacherNameEn":null,
+        "ClassTime":"102(   ) 103(   ) 104(   ) 202(   ) 203(   ) 204(   ) 402(   ) 403(   ) 404(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":3,
@@ -281,6 +359,32 @@
         "TeacherNameEn":"Chu-Hua Wu",
         "ClassTime":"406(   ) 407(   ) 408(   )",
         "TypeName":"管院共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA123",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"普通物理實驗（一）",
+        "TeacherName":"巴拉吉",
+        "TeacherNameEn":"BALAJI GURURAJAN",
+        "ClassTime":"106(   ) 107(   ) 108(   ) 306(   ) 307(   ) 308(   ) 506(   ) 507(   ) 508(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA242",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"電路學",
+        "TeacherName":"林鴻文",
+        "TeacherNameEn":null,
+        "ClassTime":"102(   ) 103(   ) 104(   ) 202(   ) 203(   ) 204(   ) 402(   ) 403(   ) 404(   )",
+        "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null

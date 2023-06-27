@@ -1164,5 +1164,18 @@
             "0.0%",
             "100.0%"
         ]
+    },
+    {
+        "CourseName":"會計資訊系統",
+        "TeacherName":"粘凱婷",
+        "CourseRatingCount":1,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     }
 ]
