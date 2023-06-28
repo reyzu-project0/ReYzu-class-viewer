@@ -78,6 +78,45 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA808",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"專業實習（三）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA809",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"專業實習（四）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEB126",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"程式語言實驗（一）",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"104(   ) 204(   ) 304(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":1,
@@ -91,6 +130,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EN004",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"102(   ) 103(   ) 202(   ) 203(   ) 302(   ) 303(   )",
+        "TypeName":"院必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"IE110",
         "CourseClass":"A",
         "Degree":1,
@@ -182,6 +234,45 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA808",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"專業實習（三）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA809",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"專業實習（四）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEB126",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"程式語言實驗（一）",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"104(   ) 204(   ) 304(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":2,
@@ -190,6 +281,19 @@
         "TeacherNameEn":null,
         "ClassTime":"402(   ) 403(   ) 404(   )",
         "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN004",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"102(   ) 103(   ) 202(   ) 203(   ) 302(   ) 303(   )",
+        "TypeName":"院必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
@@ -286,6 +390,45 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA808",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"專業實習（三）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA809",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"專業實習（四）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEB126",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"程式語言實驗（一）",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"104(   ) 204(   ) 304(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":3,
@@ -294,6 +437,19 @@
         "TeacherNameEn":null,
         "ClassTime":"402(   ) 403(   ) 404(   )",
         "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN004",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"102(   ) 103(   ) 202(   ) 203(   ) 302(   ) 303(   )",
+        "TypeName":"院必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
@@ -390,6 +546,45 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA808",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"專業實習（三）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEA809",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"專業實習（四）",
+        "TeacherName":"李宇軒",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EEB126",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"程式語言實驗（一）",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"104(   ) 204(   ) 304(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL360",
         "CourseClass":"A",
         "Degree":4,
@@ -398,6 +593,19 @@
         "TeacherNameEn":null,
         "ClassTime":"402(   ) 403(   ) 404(   )",
         "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EN004",
+        "CourseClass":"A",
+        "Degree":4,
+        "CourseName":"基礎程式設計-Python",
+        "TeacherName":"李建誠",
+        "TeacherNameEn":"Chien-Cheng Lee",
+        "ClassTime":"102(   ) 103(   ) 202(   ) 203(   ) 302(   ) 303(   )",
+        "TypeName":"院必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
