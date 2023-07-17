@@ -286,19 +286,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CH443",
-        "CourseClass":"A",
-        "Degree":2,
-        "CourseName":"化學安全工程",
-        "TeacherName":"張智凱",
-        "TeacherNameEn":null,
-        "ClassTime":"107(   ) 108(   ) 109(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CH211",
         "CourseClass":"A",
         "Degree":3,

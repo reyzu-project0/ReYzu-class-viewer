@@ -462,32 +462,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"IM351",
-        "CourseClass":"C",
-        "Degree":3,
-        "CourseName":"作業系統資安實務",
-        "TeacherName":"許晉銘",
-        "TeacherNameEn":null,
-        "ClassTime":"307(   ) 308(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM352",
-        "CourseClass":"C",
-        "Degree":3,
-        "CourseName":"數位鑑識",
-        "TeacherName":"許晉銘",
-        "TeacherNameEn":null,
-        "ClassTime":"309(   ) 310(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"IM356",
         "CourseClass":"C",
         "Degree":3,

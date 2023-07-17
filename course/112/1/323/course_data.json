@@ -39,19 +39,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CH509",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"高分子化學",
-        "TeacherName":"洪信國",
-        "TeacherNameEn":"Shinn-Gwo Hong",
-        "ClassTime":"207(   ) 208(   ) 209(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CH511",
         "CourseClass":"B",
         "Degree":1,

@@ -117,19 +117,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"SC572",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"醫療與健康專題",
-        "TeacherName":"黃芳誼",
-        "TeacherNameEn":"Fang-Yi Huang",
-        "ClassTime":"307(   ) 308(   ) 309(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"SC522",
         "CourseClass":"B",
         "Degree":2,
