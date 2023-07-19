@@ -39,19 +39,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CM963",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"會計專題",
-        "TeacherName":"待聘",
-        "TeacherNameEn":null,
-        "ClassTime":"106(   ) 107(   ) 108(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CM964",
         "CourseClass":"B",
         "Degree":1,
