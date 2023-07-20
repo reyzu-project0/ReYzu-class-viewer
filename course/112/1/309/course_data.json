@@ -78,19 +78,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"DE205",
-        "CourseClass":"A",
-        "Degree":2,
-        "CourseName":"學術英文",
-        "TeacherName":"黃麗芬",
-        "TeacherNameEn":"Li-Fen Huang",
-        "ClassTime":"506(   ) 507(   ) 508(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"DE206",
         "CourseClass":"A",
         "Degree":2,
