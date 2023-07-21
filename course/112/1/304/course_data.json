@@ -1,12 +1,12 @@
 [
     {
         "CourseID":"CS106",
-        "CourseClass":"A",
+        "CourseClass":"A1",
         "Degree":1,
         "CourseName":"程式設計（一）",
         "TeacherName":"林基成",
         "TeacherNameEn":"Ji-Cherng Lin",
-        "ClassTime":"108(   ) 109(   ) 307(   ) 308(   )",
+        "ClassTime":"108(   ) 307(   ) 308(   )",
         "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
