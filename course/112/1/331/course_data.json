@@ -78,19 +78,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"EEA607",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"書報討論",
-        "TeacherName":"李宇軒",
-        "TeacherNameEn":null,
-        "ClassTime":"311(   ) 312(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"EEA625",
         "CourseClass":"B",
         "Degree":1,
