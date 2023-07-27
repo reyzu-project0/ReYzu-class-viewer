@@ -390,6 +390,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA344",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"電力電子",
+        "TeacherName":"Lak Mohammadreza",
+        "TeacherNameEn":"劉莫翰)(Lak Mohammadreza",
+        "ClassTime":"202(   ) 203(   ) 204(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EEA350",
         "CourseClass":"A",
         "Degree":3,

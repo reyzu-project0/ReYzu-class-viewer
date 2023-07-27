@@ -1117,6 +1117,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"CM265",
+        "CourseClass":"I",
+        "Degree":2,
+        "CourseName":"企業文化案例研討",
+        "TeacherName":"吳相勳",
+        "TeacherNameEn":"Sonic Wu",
+        "ClassTime":"202(   ) 203(   ) 204(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"CM307",
         "CourseClass":"A",
         "Degree":2,

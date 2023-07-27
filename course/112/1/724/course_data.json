@@ -117,6 +117,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"CS660",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"深度學習",
+        "TeacherName":"陳尚寬",
+        "TeacherNameEn":"Shnag-Kuan Chen",
+        "ClassTime":"111(   ) 112(   ) 113(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"CS678",
         "CourseClass":"A",
         "Degree":1,

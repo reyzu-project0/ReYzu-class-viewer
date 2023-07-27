@@ -117,6 +117,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"SC574",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"公共政策理論研究",
+        "TeacherName":"待聘",
+        "TeacherNameEn":null,
+        "ClassTime":"107(   ) 108(   ) 109(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"SC522",
         "CourseClass":"B",
         "Degree":2,

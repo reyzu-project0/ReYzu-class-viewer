@@ -52,6 +52,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"IP028",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"獨立研究（一）",
+        "TeacherName":"劉宜君",
+        "TeacherNameEn":"I-Chun Liu",
+        "ClassTime":"(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"IP029",
         "CourseClass":"A",
         "Degree":3,

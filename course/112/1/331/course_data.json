@@ -78,6 +78,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EEA608",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"高等ＶＬＳＩ系統設計",
+        "TeacherName":"吳紹懋",
+        "TeacherNameEn":"Sau-Mou Wu",
+        "ClassTime":"202(   ) 203(   ) 204(   )",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EEA625",
         "CourseClass":"B",
         "Degree":1,
