@@ -26,19 +26,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CM597",
-        "CourseClass":"M",
-        "Degree":1,
-        "CourseName":"企業實習",
-        "TeacherName":"待聘",
-        "TeacherNameEn":null,
-        "ClassTime":"(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CM664",
         "CourseClass":"M",
         "Degree":1,
