@@ -246,19 +246,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"EI307",
-        "CourseClass":"A",
-        "Degree":3,
-        "CourseName":"電機機械",
-        "TeacherName":"待聘",
-        "TeacherNameEn":null,
-        "ClassTime":"108(   ) 109(   ) 110(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"EI310",
         "CourseClass":"A",
         "Degree":3,
