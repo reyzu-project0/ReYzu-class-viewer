@@ -384,6 +384,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"IM329",
+        "CourseClass":"A",
+        "Degree":3,
+        "CourseName":"專業實習／專題製作（一）",
+        "TeacherName":"系主任等",
+        "TeacherNameEn":null,
+        "ClassTime":"(   )",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"IM332",
         "CourseClass":"A",
         "Degree":3,

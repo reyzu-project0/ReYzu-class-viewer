@@ -97,7 +97,7 @@
         "CourseName":"高等審計學",
         "TeacherName":"楊炎杰",
         "TeacherNameEn":"YANG, YAN-JIE",
-        "ClassTime":"502(   ) 503(   ) 504(   )",
+        "ClassTime":"102(   ) 103(   ) 104(   )",
         "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -112,19 +112,6 @@
         "TeacherNameEn":"Liao,Chen-Chieh",
         "ClassTime":"206(   ) 207(   ) 208(   )",
         "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CM659",
-        "CourseClass":"S2",
-        "Degree":1,
-        "CourseName":"企業倫理與會計職業道德",
-        "TeacherName":"張謙恆",
-        "TeacherNameEn":null,
-        "ClassTime":"202(   ) 203(   ) 204(   )",
-        "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
