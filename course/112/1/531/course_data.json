@@ -195,19 +195,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CM632",
-        "CourseClass":"S6",
-        "Degree":2,
-        "CourseName":"風險管理",
-        "TeacherName":"曾奕翔",
-        "TeacherNameEn":null,
-        "ClassTime":"608(   ) 609(   ) 610(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CM633",
         "CourseClass":"S1",
         "Degree":2,
