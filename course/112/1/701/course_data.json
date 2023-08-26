@@ -167,14 +167,14 @@
         "TeacherNameEn":"Liang-Chih Yu",
         "ClassTime":"102(   ) 103(   ) 104(   ) 109(   ) 110(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":4,
-        "CourseRating":4.5,
+        "CourseRatingCount":5,
+        "CourseRating":4.6,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "25.0%",
+            "20.0%",
             "0.0%",
-            "75.0%"
+            "80.0%"
         ]
     },
     {
@@ -225,9 +225,15 @@
         "TeacherNameEn":"Jyh-Yang Wu",
         "ClassTime":"202(   ) 203(   ) 204(   )",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM231",

@@ -15,14 +15,14 @@
     {
         "CourseName":"程式設計（二）",
         "TeacherName":"禹良治",
-        "CourseRatingCount":4,
-        "CourseRating":4.5,
+        "CourseRatingCount":5,
+        "CourseRating":4.6,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "25.0%",
+            "20.0%",
             "0.0%",
-            "75.0%"
+            "80.0%"
         ]
     },
     {
@@ -1176,6 +1176,19 @@
             "0.0%",
             "0.0%",
             "0.0%"
+        ]
+    },
+    {
+        "CourseName":"離散數學",
+        "TeacherName":"吳志揚",
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
         ]
     }
 ]

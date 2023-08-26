@@ -206,9 +206,15 @@
         "TeacherNameEn":"Jyh-Yang Wu",
         "ClassTime":"402 (1501A) 403 (1501A) 404 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"IM231",
