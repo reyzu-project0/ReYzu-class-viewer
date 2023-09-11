@@ -117,19 +117,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CH335",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"專題研究（一）",
-        "TeacherName":"尹庚鳴",
-        "TeacherNameEn":"Ken-Ming Yin",
-        "ClassTime":"(   )",
-        "TypeName":"必選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CH213",
         "CourseClass":"A",
         "Degree":2,
@@ -409,6 +396,19 @@
         "CourseName":"專題研究（一）",
         "TeacherName":"洪信國",
         "TeacherNameEn":"Shinn-Gwo Hong",
+        "ClassTime":"(   )",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CH335",
+        "CourseClass":"B",
+        "Degree":3,
+        "CourseName":"專題研究（一）",
+        "TeacherName":"尹庚鳴",
+        "TeacherNameEn":"Ken-Ming Yin",
         "ClassTime":"(   )",
         "TypeName":"必選修",
         "CourseRatingCount":null,

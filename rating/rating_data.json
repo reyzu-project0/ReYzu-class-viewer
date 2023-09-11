@@ -665,14 +665,14 @@
     {
         "CourseName":"計算機概論",
         "TeacherName":"謝瑞建",
-        "CourseRatingCount":4,
+        "CourseRatingCount":5,
         "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "25.0%",
-            "25.0%",
-            "50.0%"
+            "20.0%",
+            "40.0%",
+            "40.0%"
         ]
     },
     {
@@ -881,7 +881,7 @@
     {
         "CourseName":"Ｗｅｂ程式設計",
         "TeacherName":"簡廷因",
-        "CourseRatingCount":1,
+        "CourseRatingCount":2,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1142,13 +1142,13 @@
     {
         "CourseName":"經濟學",
         "TeacherName":"葉佳炫",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -1181,6 +1181,19 @@
     {
         "CourseName":"離散數學",
         "TeacherName":"吳志揚",
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%"
+        ]
+    },
+    {
+        "CourseName":"英語（二）：基礎英語",
+        "TeacherName":"黃郁蘭",
         "CourseRatingCount":1,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
@@ -1189,6 +1202,32 @@
             "0.0%",
             "0.0%",
             "100.0%"
+        ]
+    },
+    {
+        "CourseName":"管理學",
+        "TeacherName":"林耀欽",
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseName":"資料結構",
+        "TeacherName":"楊錦生",
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
         ]
     }
 ]

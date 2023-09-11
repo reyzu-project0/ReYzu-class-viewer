@@ -8,14 +8,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":4,
+        "CourseRatingCount":5,
         "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "25.0%",
-            "25.0%",
-            "50.0%"
+            "20.0%",
+            "40.0%",
+            "40.0%"
         ]
     },
     {
@@ -27,14 +27,14 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"402 (1102) 403 (1102) 404 (1102)",
         "TypeName":"系必修",
-        "CourseRatingCount":4,
+        "CourseRatingCount":5,
         "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "25.0%",
-            "25.0%",
-            "50.0%"
+            "20.0%",
+            "40.0%",
+            "40.0%"
         ]
     },
     {
@@ -84,13 +84,13 @@
         "TeacherNameEn":"Chia-Hsuan Yeh",
         "ClassTime":"302 (70103) 303 (70103) 304 (70103)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
-            "100.0%",
-            "0.0%",
+            "50.0%",
+            "50.0%",
             "0.0%"
         ]
     },
@@ -154,9 +154,15 @@
         "TeacherNameEn":"Yao Chin Lin",
         "ClassTime":"103 (1501B) 104 (1501B) 106 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM214",
@@ -180,9 +186,15 @@
         "TeacherNameEn":"Chin-Sheng Yang",
         "ClassTime":"210 (1501A) 307 (1501A) 308 (1501A) 309 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"IM216",
@@ -206,14 +218,14 @@
         "TeacherNameEn":"Jyh-Yang Wu",
         "ClassTime":"402 (1501A) 403 (1501A) 404 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":5.0,
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
             "0.0%",
             "0.0%",
-            "0.0%",
-            "100.0%"
+            "50.0%",
+            "50.0%"
         ]
     },
     {
