@@ -559,37 +559,11 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"EEA495",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"物聯網應用技術與實作（二）",
-        "TeacherName":"戴烱峯",
-        "TeacherNameEn":"TAI CHIUNG FENG",
-        "ClassTime":"208 (70603) 209 (70603) 210 (70603)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"EEA496",
         "CourseClass":"A",
         "Degree":4,
         "CourseName":"畢業專題",
         "TeacherName":"蘇泰元",
-        "TeacherNameEn":null,
-        "ClassTime":"(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EEA496",
-        "CourseClass":"B",
-        "Degree":4,
-        "CourseName":"畢業專題",
-        "TeacherName":"張玲華",
         "TeacherNameEn":null,
         "ClassTime":"(   )",
         "TypeName":"系必修",

@@ -1390,19 +1390,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"EL239",
-        "CourseClass":"D",
-        "Degree":2,
-        "CourseName":"寰宇文化與社會實踐",
-        "TeacherName":"黃郁蘭",
-        "TeacherNameEn":"Yu-Lan Huang",
-        "ClassTime":"506 (3209) 507 (3209)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"EL260",
         "CourseClass":"C",
         "Degree":2,

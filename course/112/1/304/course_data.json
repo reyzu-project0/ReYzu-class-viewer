@@ -363,19 +363,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CS314",
-        "CourseClass":"A",
-        "Degree":3,
-        "CourseName":"計算機圖學概論",
-        "TeacherName":"待聘",
-        "TeacherNameEn":null,
-        "ClassTime":"207 (1008) 208 (1008) 209 (1008)",
-        "TypeName":"必選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CS321",
         "CourseClass":"A",
         "Degree":3,

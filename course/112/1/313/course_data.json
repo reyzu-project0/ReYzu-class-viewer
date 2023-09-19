@@ -232,18 +232,5 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EEC419",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"節能照明",
-        "TeacherName":"賴芳儀",
-        "TeacherNameEn":"Fang-I Lai",
-        "ClassTime":"302 (70112) 303 (70112) 304 (70112)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
     }
 ]

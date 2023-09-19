@@ -537,18 +537,5 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IE446",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"企業實習（B）",
-        "TeacherName":"系主任等",
-        "TeacherNameEn":null,
-        "ClassTime":"(   )",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
     }
 ]

@@ -400,31 +400,5 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EI411",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"近代物理（一）",
-        "TeacherName":"蒲念文",
-        "TeacherNameEn":"Nen-Wen Pu",
-        "ClassTime":"402 (70204) 403 (70204) 404 (70204)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EI413",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"半導體製程技術",
-        "TeacherName":"巴拉吉",
-        "TeacherNameEn":"BALAJI GURURAJAN",
-        "ClassTime":"501 (70205) 502 (70205) 503 (70205)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
     }
 ]

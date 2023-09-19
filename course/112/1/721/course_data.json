@@ -14,19 +14,6 @@
     },
     {
         "CourseID":"IM514",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"企業研究方法",
-        "TeacherName":"張國忠",
-        "TeacherNameEn":"Kuochung Chang",
-        "ClassTime":"408 (1602D) 409 (1602D) 410 (1602D)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM514",
         "CourseClass":"B",
         "Degree":1,
         "CourseName":"企業研究方法",
@@ -99,19 +86,6 @@
         "TeacherNameEn":"Chih Cheng Chen",
         "ClassTime":"606 (1503) 607 (1503) 608 (1503)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"IM595",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"專業實習",
-        "TeacherName":"系主任等",
-        "TeacherNameEn":null,
-        "ClassTime":"(   )",
-        "TypeName":"選修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null

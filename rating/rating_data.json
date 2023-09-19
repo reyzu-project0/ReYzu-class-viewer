@@ -1229,5 +1229,18 @@
             "100.0%",
             "0.0%"
         ]
+    },
+    {
+        "CourseName":"普通物理實驗（一）",
+        "TeacherName":"巴拉吉",
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     }
 ]

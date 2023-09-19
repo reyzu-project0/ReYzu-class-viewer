@@ -47,9 +47,15 @@
         "TeacherNameEn":"BALAJI GURURAJAN",
         "ClassTime":"106 (70309) 107 (70309) 108 (70309) 306 (70309) 307 (70309) 308 (70309) 506 (70309) 507 (70309) 508 (70309)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"EEA242",
@@ -190,9 +196,15 @@
         "TeacherNameEn":"BALAJI GURURAJAN",
         "ClassTime":"106 (70309) 107 (70309) 108 (70309) 306 (70309) 307 (70309) 308 (70309) 506 (70309) 507 (70309) 508 (70309)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"EEA242",
@@ -333,9 +345,15 @@
         "TeacherNameEn":"BALAJI GURURAJAN",
         "ClassTime":"106 (70309) 107 (70309) 108 (70309) 306 (70309) 307 (70309) 308 (70309) 506 (70309) 507 (70309) 508 (70309)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"EEA242",
@@ -476,9 +494,15 @@
         "TeacherNameEn":"BALAJI GURURAJAN",
         "ClassTime":"106 (70309) 107 (70309) 108 (70309) 306 (70309) 307 (70309) 308 (70309) 506 (70309) 507 (70309) 508 (70309)",
         "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1,
+        "CourseRating":5.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%"
+        ]
     },
     {
         "CourseID":"EEA242",

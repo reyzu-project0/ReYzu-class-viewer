@@ -143,19 +143,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"EEC543",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"有機發光元件及物理",
-        "TeacherName":"張志豪",
-        "TeacherNameEn":"Chih-Hao Chang",
-        "ClassTime":"506 (70112) 507 (70112) 508 (70112)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"EEC551",
         "CourseClass":"A",
         "Degree":1,
