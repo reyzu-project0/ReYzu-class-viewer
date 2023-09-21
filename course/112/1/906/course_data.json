@@ -26,6 +26,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"EL170",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"華語（一）",
+        "TeacherName":"賴芳暉",
+        "TeacherNameEn":null,
+        "ClassTime":"403 (3209) 404 (3209)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"EL171",
         "CourseClass":"A",
         "Degree":1,
