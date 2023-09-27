@@ -1,19 +1,6 @@
 [
     {
         "CourseID":"LC102",
-        "CourseClass":"B3",
-        "Degree":1,
-        "CourseName":"英語（一）：中階英語",
-        "TeacherName":"安琪拉",
-        "TeacherNameEn":"MARIA ANGELA BAUTISTA DIAZ",
-        "ClassTime":"201 (1213) 202 (1213)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"LC102",
         "CourseClass":"B4",
         "Degree":1,
         "CourseName":"英語（一）：中階英語",
@@ -422,6 +409,45 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"LC103",
+        "CourseClass":"H3",
+        "Degree":1,
+        "CourseName":"英語（一）：基礎英語",
+        "TeacherName":"簡洛汾",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (1113) 504 (1113)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"LC103",
+        "CourseClass":"H4",
+        "Degree":1,
+        "CourseName":"英語（一）：基礎英語",
+        "TeacherName":"黃郁蘭",
+        "TeacherNameEn":"Yu-Lan Huang",
+        "ClassTime":"503 (3209) 504 (3209)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"LC102",
+        "CourseClass":"B3",
+        "Degree":1,
+        "CourseName":"英語（一）：中階英語",
+        "TeacherName":"安琪拉",
+        "TeacherNameEn":"MARIA ANGELA BAUTISTA DIAZ",
+        "ClassTime":"201 (1213) 202 (1213)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"LC102",
         "CourseClass":"B2",
         "Degree":1,
@@ -637,32 +663,6 @@
         "TeacherName":"許芳華",
         "TeacherNameEn":null,
         "ClassTime":"411 (70203) 412 (70203)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"LC103",
-        "CourseClass":"H3",
-        "Degree":1,
-        "CourseName":"英語（一）：基礎英語",
-        "TeacherName":"簡洛汾",
-        "TeacherNameEn":null,
-        "ClassTime":"503 (1113) 504 (1113)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"LC103",
-        "CourseClass":"H4",
-        "Degree":1,
-        "CourseName":"英語（一）：基礎英語",
-        "TeacherName":"黃郁蘭",
-        "TeacherNameEn":"Yu-Lan Huang",
-        "ClassTime":"503 (3209) 504 (3209)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
