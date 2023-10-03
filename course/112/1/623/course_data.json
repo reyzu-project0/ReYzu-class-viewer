@@ -1,18 +1,5 @@
 [
     {
-        "CourseID":"AM556",
-        "CourseClass":"A1",
-        "Degree":1,
-        "CourseName":"藝術策展",
-        "TeacherName":"鄒淑慧",
-        "TeacherNameEn":"Shwu-Huoy Tzou",
-        "ClassTime":"506 (策展場地) 507 (策展場地) 508 (策展場地)",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"AM580",
         "CourseClass":"A",
         "Degree":1,
@@ -60,6 +47,32 @@
         "TeacherNameEn":"WAN-WEN HUANG",
         "ClassTime":"106 (2111) 107 (2111) 108 (2111)",
         "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM556",
+        "CourseClass":"A1",
+        "Degree":2,
+        "CourseName":"藝術策展",
+        "TeacherName":"鄒淑慧",
+        "TeacherNameEn":"Shwu-Huoy Tzou",
+        "ClassTime":"506 (策展場地) 507 (策展場地) 508 (策展場地)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"AM578",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"藝術與設計創作執行（一）",
+        "TeacherName":"龔詩文",
+        "TeacherNameEn":"Shih-Wen Kung",
+        "ClassTime":"207 (3210) 208 (3210)",
+        "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
