@@ -637,19 +637,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"FL456",
-        "CourseClass":"A",
-        "Degree":4,
-        "CourseName":"日文課外閱讀（四）",
-        "TeacherName":"廖秀娟",
-        "TeacherNameEn":"Hsiu-Chuan Liao",
-        "ClassTime":"(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"FL469",
         "CourseClass":"A",
         "Degree":4,

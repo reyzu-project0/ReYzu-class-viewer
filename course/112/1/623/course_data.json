@@ -78,19 +78,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"AM582",
-        "CourseClass":"A",
-        "Degree":2,
-        "CourseName":"藝術與設計創作執行（一）",
-        "TeacherName":"龔詩文",
-        "TeacherNameEn":"Shih-Wen Kung",
-        "ClassTime":"207 (3210) 208 (3210)",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"AM603",
         "CourseClass":"A",
         "Degree":2,
