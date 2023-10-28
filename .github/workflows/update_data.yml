@@ -50,7 +50,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           # latest           
-          python-version: "*"
+          python-version: "3.11"
        
       - run: python --version
 
