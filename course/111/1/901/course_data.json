@@ -169,19 +169,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CP101",
-        "CourseClass":"A1",
-        "Degree":1,
-        "CourseName":"基礎程式設計-C++實習（一）",
-        "TeacherName":"胡光泰",
-        "TeacherNameEn":"HO QUANG THAI",
-        "ClassTime":"203 (1008) 204 (1008)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CL142",
         "CourseClass":"Q",
         "Degree":1,
@@ -196,12 +183,25 @@
     },
     {
         "CourseID":"CP101",
-        "CourseClass":"A2",
+        "CourseClass":"A1",
         "Degree":1,
         "CourseName":"基礎程式設計-C++實習（一）",
         "TeacherName":"胡光泰",
         "TeacherNameEn":"HO QUANG THAI",
-        "ClassTime":"207 (1008) 208 (1008)",
+        "ClassTime":"203 (1008) 204 (1008)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CP101",
+        "CourseClass":"A3",
+        "Degree":1,
+        "CourseName":"基礎程式設計-C++實習（一）",
+        "TeacherName":"張維元",
+        "TeacherNameEn":null,
+        "ClassTime":"310 (1301B) 311 (1301B)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -274,12 +274,12 @@
     },
     {
         "CourseID":"CP101",
-        "CourseClass":"A3",
+        "CourseClass":"A2",
         "Degree":1,
         "CourseName":"基礎程式設計-C++實習（一）",
-        "TeacherName":"張維元",
-        "TeacherNameEn":null,
-        "ClassTime":"310 (1301B) 311 (1301B)",
+        "TeacherName":"胡光泰",
+        "TeacherNameEn":"HO QUANG THAI",
+        "ClassTime":"207 (1008) 208 (1008)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -539,25 +539,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GN201",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"數學與邏輯思維",
-        "TeacherName":"陳以明",
-        "TeacherNameEn":"Yee-Ming Chen",
-        "ClassTime":"103 (2603) 104 (2603)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
         "CourseID":"CP111",
         "CourseClass":"B2",
         "Degree":1,
@@ -577,13 +558,32 @@
         ]
     },
     {
-        "CourseID":"GN212",
+        "CourseID":"GN201",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"數學漫談",
+        "CourseName":"數學與邏輯思維",
+        "TeacherName":"陳以明",
+        "TeacherNameEn":"Yee-Ming Chen",
+        "ClassTime":"103 (2603) 104 (2603)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN213",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"物理學漫談",
         "TeacherName":"吳金生",
         "TeacherNameEn":"Chin-Sheng Wu",
-        "ClassTime":"106 (2112) 107 (2112)",
+        "ClassTime":"506 (70203) 507 (70203)",
         "TypeName":"通識教育課程",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -1107,32 +1107,13 @@
         ]
     },
     {
-        "CourseID":"GS426",
+        "CourseID":"GN212",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"性別教育",
-        "TeacherName":"鍾秋玉",
-        "TeacherNameEn":"Chiu-Yu Chung",
-        "ClassTime":"408 (3103) 409 (3103)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN213",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"物理學漫談",
+        "CourseName":"數學漫談",
         "TeacherName":"吳金生",
         "TeacherNameEn":"Chin-Sheng Wu",
-        "ClassTime":"506 (70203) 507 (70203)",
+        "ClassTime":"106 (2112) 107 (2112)",
         "TypeName":"通識教育課程",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -1358,6 +1339,25 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GS426",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"性別教育",
+        "TeacherName":"鍾秋玉",
+        "TeacherNameEn":"Chiu-Yu Chung",
+        "ClassTime":"408 (3103) 409 (3103)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GS427",
