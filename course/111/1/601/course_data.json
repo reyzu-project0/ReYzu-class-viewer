@@ -52,19 +52,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"FL135",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"英文課外閱讀（二）",
-        "TeacherName":"柯宜中",
-        "TeacherNameEn":"I-Chung Ke",
-        "ClassTime":"(   )",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"FL134",
         "CourseClass":"A",
         "Degree":1,
@@ -176,6 +163,19 @@
         "TeacherName":"梁蘊嫻",
         "TeacherNameEn":null,
         "ClassTime":"103 (5730) 104 (5730) 303 (2101) 304 (2101)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"FL135",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"英文課外閱讀（二）",
+        "TeacherName":"柯宜中",
+        "TeacherNameEn":"I-Chung Ke",
+        "ClassTime":"(   )",
         "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
