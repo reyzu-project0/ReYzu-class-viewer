@@ -312,13 +312,13 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CL142",
-        "CourseClass":"J2",
+        "CourseID":"CP107",
+        "CourseClass":"G2",
         "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"黃青萍",
-        "TeacherNameEn":null,
-        "ClassTime":"203 (2102) 204 (2102)",
+        "CourseName":"基礎程式設計-工程應用程式語言（一）",
+        "TeacherName":"楊大中",
+        "TeacherNameEn":"Tachung Yang",
+        "ClassTime":"206 (3301A) 207 (3301A)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -352,6 +352,19 @@
     },
     {
         "CourseID":"CL142",
+        "CourseClass":"J2",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"黃青萍",
+        "TeacherNameEn":null,
+        "ClassTime":"203 (2102) 204 (2102)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
         "CourseClass":"J1",
         "Degree":1,
         "CourseName":"國文（一）",
@@ -371,19 +384,6 @@
         "TeacherName":"廖啟宏",
         "TeacherNameEn":null,
         "ClassTime":"503 (3104) 504 (3104)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"I1",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"徐其寧",
-        "TeacherNameEn":null,
-        "ClassTime":"501 (2423) 502 (2423)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -443,6 +443,19 @@
     },
     {
         "CourseID":"CL142",
+        "CourseClass":"I1",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"徐其寧",
+        "TeacherNameEn":null,
+        "ClassTime":"501 (2423) 502 (2423)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
         "CourseClass":"H2",
         "Degree":1,
         "CourseName":"國文（一）",
@@ -462,19 +475,6 @@
         "TeacherName":"李瑩娟",
         "TeacherNameEn":null,
         "ClassTime":"501 (1109) 502 (1109)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"G3",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"郭玲妦",
-        "TeacherNameEn":null,
-        "ClassTime":"503 (2425) 504 (2425)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -528,6 +528,38 @@
         "TeacherNameEn":"Ming-Yunn Deng",
         "ClassTime":"203 (2011) 204 (2011)",
         "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN201",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"數學與邏輯思維",
+        "TeacherName":"陳以明",
+        "TeacherNameEn":"Yee-Ming Chen",
+        "ClassTime":"103 (2603) 104 (2603)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"G3",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"郭玲妦",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (2425) 504 (2425)",
+        "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
@@ -676,19 +708,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CP107",
-        "CourseClass":"G2",
-        "Degree":1,
-        "CourseName":"基礎程式設計-工程應用程式語言（一）",
-        "TeacherName":"楊大中",
-        "TeacherNameEn":"Tachung Yang",
-        "ClassTime":"206 (3301A) 207 (3301A)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CP108",
         "CourseClass":"I2",
         "Degree":1,
@@ -779,36 +798,17 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GN416",
+        "CourseID":"GN420",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"科學之美",
-        "TeacherName":"邢正蓉",
+        "CourseName":"基礎程式設計",
+        "TeacherName":"俞伯傑",
         "TeacherNameEn":null,
-        "ClassTime":"111 (3302) 112 (3302)",
+        "ClassTime":"408 (60406) 409 (60406)",
         "TypeName":"通識教育課程",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GS211",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"社會心理學",
-        "TeacherName":"鍾秋玉",
-        "TeacherNameEn":"Chiu-Yu Chung",
-        "ClassTime":"406 (3103) 407 (3103)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
     },
     {
         "CourseID":"GS214",
@@ -1352,30 +1352,23 @@
         ]
     },
     {
-        "CourseID":"GN419",
+        "CourseID":"ID008",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"認識地球",
-        "TeacherName":"朱延祥",
+        "CourseName":"旅遊桃園史",
+        "TeacherName":"陳錦昌",
         "TeacherNameEn":null,
-        "ClassTime":"108 (3110) 109 (3110)",
+        "ClassTime":"503 (1102) 504 (1102)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GN420",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"基礎程式設計",
-        "TeacherName":"俞伯傑",
-        "TeacherNameEn":null,
-        "ClassTime":"408 (60406) 409 (60406)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "50.0%",
+            "0.0%",
+            "0.0%",
+            "50.0%"
+        ]
     },
     {
         "CourseID":"GN422",
@@ -1496,6 +1489,25 @@
             "50.0%",
             "0.0%",
             "50.0%"
+        ]
+    },
+    {
+        "CourseID":"GS211",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"社會心理學",
+        "TeacherName":"鍾秋玉",
+        "TeacherNameEn":"Chiu-Yu Chung",
+        "ClassTime":"406 (3103) 407 (3103)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
         ]
     },
     {
@@ -1627,42 +1639,30 @@
         ]
     },
     {
-        "CourseID":"GN201",
+        "CourseID":"GN416",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"數學與邏輯思維",
-        "TeacherName":"陳以明",
-        "TeacherNameEn":"Yee-Ming Chen",
-        "ClassTime":"103 (2603) 104 (2603)",
+        "CourseName":"科學之美",
+        "TeacherName":"邢正蓉",
+        "TeacherNameEn":null,
+        "ClassTime":"111 (3302) 112 (3302)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
-        "CourseID":"ID008",
+        "CourseID":"GN419",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"旅遊桃園史",
-        "TeacherName":"陳錦昌",
+        "CourseName":"認識地球",
+        "TeacherName":"朱延祥",
         "TeacherNameEn":null,
-        "ClassTime":"503 (1102) 504 (1102)",
+        "ClassTime":"108 (3110) 109 (3110)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "50.0%",
-            "0.0%",
-            "0.0%",
-            "50.0%"
-        ]
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
         "CourseID":"ID008",
