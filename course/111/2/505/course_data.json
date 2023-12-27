@@ -104,6 +104,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"CM441",
+        "CourseClass":"G",
+        "Degree":1,
+        "CourseName":"商用英語與簡報技巧",
+        "TeacherName":"曉鳳",
+        "TeacherNameEn":"Shikha Shalini",
+        "ClassTime":"302 (60203) 303 (60203) 304 (60203)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"CM113",
         "CourseClass":"F",
         "Degree":1,
@@ -333,19 +346,6 @@
         "TeacherNameEn":null,
         "ClassTime":"310 (3102) 402 (3102) 403 (3102) 404 (3102)",
         "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CM441",
-        "CourseClass":"G",
-        "Degree":1,
-        "CourseName":"商用英語與簡報技巧",
-        "TeacherName":"曉鳳",
-        "TeacherNameEn":"Shikha Shalini",
-        "ClassTime":"302 (60203) 303 (60203) 304 (60203)",
-        "TypeName":"必選修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
