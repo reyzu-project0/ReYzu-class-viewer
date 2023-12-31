@@ -1207,12 +1207,12 @@
     {
         "CourseName":"管理學",
         "TeacherName":"林耀欽",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":2.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "0.0%",
-            "100.0%",
+            "50.0%",
+            "50.0%",
             "0.0%",
             "0.0%"
         ]

@@ -154,12 +154,12 @@
         "TeacherNameEn":"Yao Chin Lin",
         "ClassTime":"103 (1501B) 104 (1501B) 106 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
+        "CourseRatingCount":2,
+        "CourseRating":2.5,
         "CourseRatingPercentages":[
             "0.0%",
-            "0.0%",
-            "100.0%",
+            "50.0%",
+            "50.0%",
             "0.0%",
             "0.0%"
         ]
