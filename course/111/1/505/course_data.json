@@ -480,6 +480,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"CM201",
+        "CourseClass":"I",
+        "Degree":2,
+        "CourseName":"統計學（上）",
+        "TeacherName":"葉哲瑋",
+        "TeacherNameEn":null,
+        "ClassTime":"302 (3114) 303 (3114) 304 (3114) 401 (3114)",
+        "TypeName":"管院共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"CM203",
         "CourseClass":"A",
         "Degree":2,
@@ -883,45 +896,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CM227",
-        "CourseClass":"E",
-        "Degree":2,
-        "CourseName":"市場競爭分析",
-        "TeacherName":"徐學忍",
-        "TeacherNameEn":"Hsueh-Jen Hsu",
-        "ClassTime":"102 (3104) 103 (3104) 104 (3104)",
-        "TypeName":"必選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CM235",
-        "CourseClass":"A",
-        "Degree":2,
-        "CourseName":"創新管理與實務",
-        "TeacherName":"曾詠青",
-        "TeacherNameEn":null,
-        "ClassTime":"106 (60304) 107 (60304) 108 (60304)",
-        "TypeName":"必選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CM201",
-        "CourseClass":"I",
-        "Degree":2,
-        "CourseName":"統計學（上）",
-        "TeacherName":"葉哲瑋",
-        "TeacherNameEn":null,
-        "ClassTime":"302 (3114) 303 (3114) 304 (3114) 401 (3114)",
-        "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CM201",
         "CourseClass":"H",
         "Degree":2,
@@ -1034,6 +1008,32 @@
         "TeacherNameEn":null,
         "ClassTime":"103 (60211) 104 (60211)",
         "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM227",
+        "CourseClass":"E",
+        "Degree":2,
+        "CourseName":"市場競爭分析",
+        "TeacherName":"徐學忍",
+        "TeacherNameEn":"Hsueh-Jen Hsu",
+        "ClassTime":"102 (3104) 103 (3104) 104 (3104)",
+        "TypeName":"必選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM235",
+        "CourseClass":"A",
+        "Degree":2,
+        "CourseName":"創新管理與實務",
+        "TeacherName":"曾詠青",
+        "TeacherNameEn":null,
+        "ClassTime":"106 (60304) 107 (60304) 108 (60304)",
+        "TypeName":"必選修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null

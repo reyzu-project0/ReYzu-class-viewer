@@ -1,132 +1,5 @@
 [
     {
-        "CourseID":"IM119",
-        "CourseClass":"C",
-        "Degree":1,
-        "CourseName":"程式設計（一）",
-        "TeacherName":"劉俞志",
-        "TeacherNameEn":"Yu-Chih Liu",
-        "ClassTime":"209 (1611) 210 (1611) 407 (1109) 408 (1109) 409 (1109)",
-        "TypeName":"系必修",
-        "CourseRatingCount":1,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"IM120",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"程式設計（二）",
-        "TeacherName":"禹良治",
-        "TeacherNameEn":"Liang-Chih Yu",
-        "ClassTime":"106 (5002) 107 (5002) 108 (5002) 508 (1611) 509 (1611)",
-        "TypeName":"系必修",
-        "CourseRatingCount":5,
-        "CourseRating":4.6,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "20.0%",
-            "0.0%",
-            "80.0%"
-        ]
-    },
-    {
-        "CourseID":"IM120",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"程式設計（二）",
-        "TeacherName":"林志麟",
-        "TeacherNameEn":"Jun-Lin Lin",
-        "ClassTime":"206 (1611) 207 (1611) 208 (1611) 506 (1611) 507 (1611)",
-        "TypeName":"系必修",
-        "CourseRatingCount":2,
-        "CourseRating":4.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%"
-        ]
-    },
-    {
-        "CourseID":"IM121",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"會計學",
-        "TeacherName":"袁鳳清",
-        "TeacherNameEn":"Fong-Ching Yuan",
-        "ClassTime":"206 (1501B) 207 (1501B) 208 (1501B) 309 (1501B)",
-        "TypeName":"系必修",
-        "CourseRatingCount":3,
-        "CourseRating":1.0,
-        "CourseRatingPercentages":[
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"IM121",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"會計學",
-        "TeacherName":"袁鳳清",
-        "TeacherNameEn":"Fong-Ching Yuan",
-        "ClassTime":"308 (1501B) 402 (1501B) 403 (1501B) 404 (1501B)",
-        "TypeName":"系必修",
-        "CourseRatingCount":3,
-        "CourseRating":1.0,
-        "CourseRatingPercentages":[
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"IM128",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"微積分（含演習）（二）",
-        "TeacherName":"葉佳炫",
-        "TeacherNameEn":"Chia-Hsuan Yeh",
-        "ClassTime":"102 (70103) 103 (70103) 104 (70103) 406 (70102)",
-        "TypeName":"系必修",
-        "CourseRatingCount":2,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"IM131",
-        "CourseClass":"C",
-        "Degree":1,
-        "CourseName":"數據產業概論",
-        "TeacherName":"陳志成",
-        "TeacherNameEn":"Chih Cheng Chen",
-        "ClassTime":"302 (70206) 303 (70206) 304 (70206)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"IM132",
         "CourseClass":"A",
         "Degree":1,
@@ -155,6 +28,133 @@
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
         "CourseRatingCount":2,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"IM131",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"數據產業概論",
+        "TeacherName":"陳志成",
+        "TeacherNameEn":"Chih Cheng Chen",
+        "ClassTime":"302 (70206) 303 (70206) 304 (70206)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IM128",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"微積分（含演習）（二）",
+        "TeacherName":"葉佳炫",
+        "TeacherNameEn":"Chia-Hsuan Yeh",
+        "ClassTime":"102 (70103) 103 (70103) 104 (70103) 406 (70102)",
+        "TypeName":"系必修",
+        "CourseRatingCount":2,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"IM121",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"會計學",
+        "TeacherName":"袁鳳清",
+        "TeacherNameEn":"Fong-Ching Yuan",
+        "ClassTime":"308 (1501B) 402 (1501B) 403 (1501B) 404 (1501B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":3,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"IM121",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"會計學",
+        "TeacherName":"袁鳳清",
+        "TeacherNameEn":"Fong-Ching Yuan",
+        "ClassTime":"206 (1501B) 207 (1501B) 208 (1501B) 309 (1501B)",
+        "TypeName":"系必修",
+        "CourseRatingCount":3,
+        "CourseRating":1.0,
+        "CourseRatingPercentages":[
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"IM120",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"程式設計（二）",
+        "TeacherName":"林志麟",
+        "TeacherNameEn":"Jun-Lin Lin",
+        "ClassTime":"206 (1611) 207 (1611) 208 (1611) 506 (1611) 507 (1611)",
+        "TypeName":"系必修",
+        "CourseRatingCount":2,
+        "CourseRating":4.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%"
+        ]
+    },
+    {
+        "CourseID":"IM120",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"程式設計（二）",
+        "TeacherName":"禹良治",
+        "TeacherNameEn":"Liang-Chih Yu",
+        "ClassTime":"106 (5002) 107 (5002) 108 (5002) 508 (1611) 509 (1611)",
+        "TypeName":"系必修",
+        "CourseRatingCount":5,
+        "CourseRating":4.6,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "20.0%",
+            "0.0%",
+            "80.0%"
+        ]
+    },
+    {
+        "CourseID":"IM119",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"程式設計（一）",
+        "TeacherName":"劉俞志",
+        "TeacherNameEn":"Yu-Chih Liu",
+        "ClassTime":"209 (1611) 210 (1611) 407 (1109) 408 (1109) 409 (1109)",
+        "TypeName":"系必修",
+        "CourseRatingCount":1,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
