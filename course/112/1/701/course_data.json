@@ -8,7 +8,7 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"106 (1501A) 107 (1501A) 108 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":5,
+        "CourseRatingCount":5.0,
         "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
@@ -27,7 +27,7 @@
         "TeacherNameEn":"Jui-Chien Hsieh",
         "ClassTime":"402 (1501A) 403 (1501A) 404 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":5,
+        "CourseRatingCount":5.0,
         "CourseRating":4.2,
         "CourseRatingPercentages":[
             "0.0%",
@@ -46,7 +46,7 @@
         "TeacherNameEn":"Jun-Lin Lin",
         "ClassTime":"206 (1611) 207 (1611) 208 (1611) 508 (1611) 509 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":2.5,
         "CourseRatingPercentages":[
             "50.0%",
@@ -65,7 +65,7 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"106 (3107) 107 (3107) 108 (3107) 506 (1611) 507 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":3,
+        "CourseRatingCount":3.0,
         "CourseRating":4.7,
         "CourseRatingPercentages":[
             "0.0%",
@@ -84,7 +84,7 @@
         "TeacherNameEn":"Chia-Hsuan Yeh",
         "ClassTime":"302 (70103) 303 (70103) 304 (70103)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -103,7 +103,7 @@
         "TeacherNameEn":"Chia-Hsuan Yeh",
         "ClassTime":"102 (70103) 103 (70103) 104 (70103) 209 (70103)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -122,7 +122,7 @@
         "TeacherNameEn":"Shu-Fen Tseng",
         "ClassTime":"307 (1501A) 308 (1501A) 309 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -141,7 +141,7 @@
         "TeacherNameEn":"Yao Chin Lin",
         "ClassTime":"106 (1501B) 107 (1501B) 108 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":2.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -160,7 +160,7 @@
         "TeacherNameEn":"Yao Chin Lin",
         "ClassTime":"307 (1501B) 308 (1501B) 309 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":2.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -179,7 +179,7 @@
         "TeacherNameEn":"Liang-Chih Yu",
         "ClassTime":"102 (1611) 103 (1611) 104 (1611) 109 (1611) 110 (1611)",
         "TypeName":"系必修",
-        "CourseRatingCount":5,
+        "CourseRatingCount":5.0,
         "CourseRating":4.6,
         "CourseRatingPercentages":[
             "0.0%",
@@ -211,7 +211,7 @@
         "TeacherNameEn":"Chin-Sheng Yang",
         "ClassTime":"210 (1501B) 402 (1501B) 403 (1501B) 404 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -243,7 +243,7 @@
         "TeacherNameEn":"Jyh-Yang Wu",
         "ClassTime":"202 (1501A) 203 (1501A) 204 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -275,7 +275,7 @@
         "TeacherNameEn":"Chih Cheng Chen",
         "ClassTime":"506 (1501A) 507 (1501A) 508 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -320,7 +320,7 @@
         "TeacherNameEn":"Fong-Ching Yuan",
         "ClassTime":"206 (1501B) 207 (1501B) 208 (1501B)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -339,7 +339,7 @@
         "TeacherNameEn":"Cheng-Jye Luh",
         "ClassTime":"206 (1501A) 207 (1501A) 208 (1501A)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -384,7 +384,7 @@
         "TeacherNameEn":"Chin-Sheng Yang",
         "ClassTime":"502 (1501A) 503 (1501A) 504 (1501A)",
         "TypeName":"選修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",

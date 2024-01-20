@@ -229,7 +229,7 @@
         "TeacherNameEn":"Chi-Kuang Chen",
         "ClassTime":"506 (2619) 507 (2619) 508 (2619)",
         "TypeName":"選修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",

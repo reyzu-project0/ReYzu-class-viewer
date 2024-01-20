@@ -437,7 +437,7 @@
         "TeacherNameEn":"Po-Chih Yang",
         "ClassTime":"303 (2115) 304 (2115) 404 (2115)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",

@@ -138,7 +138,7 @@
         "TeacherNameEn":"Wei-Tyng Hong",
         "ClassTime":"402 (70101) 403 (70101) 404 (70101)",
         "TypeName":"選修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":1.0,
         "CourseRatingPercentages":[
             "100.0%",
@@ -157,7 +157,7 @@
         "TeacherNameEn":"Wei-Tyng Hong",
         "ClassTime":"202 (70205) 203 (70205) 204 (70205)",
         "TypeName":"選修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":1.0,
         "CourseRatingPercentages":[
             "100.0%",
@@ -228,7 +228,7 @@
         "TeacherNameEn":"Jeng-Rern Yang",
         "ClassTime":"302 (70307) 303 (70307) 304 (70307)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",

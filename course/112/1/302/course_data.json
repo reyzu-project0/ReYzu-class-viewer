@@ -8,7 +8,7 @@
         "TeacherNameEn":"Yu-Chun Chiang",
         "ClassTime":"203 (3107) 204 (3107) 308 (3107)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -27,7 +27,7 @@
         "TeacherNameEn":"Yu-Chun Chiang",
         "ClassTime":"201 (3107) 202 (3107) 307 (3107)",
         "TypeName":"系必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",

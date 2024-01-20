@@ -385,7 +385,7 @@
         "TeacherNameEn":null,
         "ClassTime":"201 (2105) 202 (2105)",
         "TypeName":"共同必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -547,7 +547,7 @@
         "TeacherNameEn":null,
         "ClassTime":"203 (2105) 204 (2105)",
         "TypeName":"共同必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",

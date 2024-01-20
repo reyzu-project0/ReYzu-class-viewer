@@ -73,7 +73,7 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"407 (1611) 408 (1611)",
         "TypeName":"院必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -92,7 +92,7 @@
         "TeacherNameEn":"Wen-Jia Kuo",
         "ClassTime":"409 (1611) 410 (1611)",
         "TypeName":"院必修",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",

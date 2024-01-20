@@ -424,7 +424,7 @@
         "TeacherNameEn":"Yee-Ming Chen",
         "ClassTime":"103 (2603) 104 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -443,7 +443,7 @@
         "TeacherNameEn":null,
         "ClassTime":"408 (2113) 409 (2113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -475,7 +475,7 @@
         "TeacherNameEn":"MING-YANG HSU",
         "ClassTime":"301 (1213) 302 (1213)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -494,7 +494,7 @@
         "TeacherNameEn":"Sau-Mou Wu",
         "ClassTime":"206 (70112) 207 (70112)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -526,7 +526,7 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (1111) 504 (1111)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -545,7 +545,7 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (1111) 507 (1111)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -564,7 +564,7 @@
         "TeacherNameEn":null,
         "ClassTime":"208 (2102) 209 (2102)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -583,7 +583,7 @@
         "TeacherNameEn":null,
         "ClassTime":"309 (1204) 310 (1204)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -602,7 +602,7 @@
         "TeacherNameEn":"LO,YU-TSUNG",
         "ClassTime":"206 (2102) 207 (2102)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -673,7 +673,7 @@
         "TeacherNameEn":null,
         "ClassTime":"203 (2008) 204 (2008)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -692,7 +692,7 @@
         "TeacherNameEn":"Shih-Wen Kung",
         "ClassTime":"406 (2113) 407 (2113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -711,7 +711,7 @@
         "TeacherNameEn":"Chiu-Yu Chung",
         "ClassTime":"403 (3114) 404 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -730,7 +730,7 @@
         "TeacherNameEn":"jethou",
         "ClassTime":"103 (3103) 104 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -749,7 +749,7 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"103 (60105) 104 (60105)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -768,7 +768,7 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"208 (60105) 209 (60105)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -800,7 +800,7 @@
         "TeacherNameEn":null,
         "ClassTime":"408 (60312) 409 (60312)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -819,7 +819,7 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"303 (1204) 304 (1204)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -838,7 +838,7 @@
         "TeacherNameEn":"GEORG HARTICH",
         "ClassTime":"508 (2113) 509 (2113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -857,7 +857,7 @@
         "TeacherNameEn":"Hsin-Lin Chen",
         "ClassTime":"109 (2423) 110 (2423)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -889,7 +889,7 @@
         "TeacherNameEn":null,
         "ClassTime":"201 (2008) 202 (2008)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -908,7 +908,7 @@
         "TeacherNameEn":"Chiu-Yu Chung",
         "ClassTime":"406 (3102) 407 (3102)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -927,7 +927,7 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"303 (2604) 304 (2604)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -946,7 +946,7 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"301 (2423) 302 (2423)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -965,7 +965,7 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"303 (2423) 304 (2423)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -984,7 +984,7 @@
         "TeacherNameEn":"GEORG HARTICH",
         "ClassTime":"503 (2113) 504 (2113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1003,7 +1003,7 @@
         "TeacherNameEn":"jethou",
         "ClassTime":"106 (3103) 107 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1022,7 +1022,7 @@
         "TeacherNameEn":"Hsiu-Lien,Chien",
         "ClassTime":"208 (2101) 209 (2101)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1067,7 +1067,7 @@
         "TeacherNameEn":"Yi-Yun Wang",
         "ClassTime":"403 (3103) 404 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1112,7 +1112,7 @@
         "TeacherNameEn":"Li-Jung Mai",
         "ClassTime":"403 (2105) 404 (2105)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1131,7 +1131,7 @@
         "TeacherNameEn":null,
         "ClassTime":"108 (2101) 109 (2101)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1150,7 +1150,7 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (3216) 504 (3216)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":1.0,
         "CourseRatingPercentages":[
             "100.0%",
@@ -1169,7 +1169,7 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (3216) 507 (3216)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1188,7 +1188,7 @@
         "TeacherNameEn":null,
         "ClassTime":"303 (3114) 304 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1207,7 +1207,7 @@
         "TeacherNameEn":null,
         "ClassTime":"503 (60203) 504 (60203)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1226,7 +1226,7 @@
         "TeacherNameEn":null,
         "ClassTime":"506 (60203) 507 (60203)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":3.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1245,7 +1245,7 @@
         "TeacherNameEn":null,
         "ClassTime":"307 (1204) 308 (1204)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1277,7 +1277,7 @@
         "TeacherNameEn":null,
         "ClassTime":"106 (2004) 107 (2004)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1348,7 +1348,7 @@
         "TeacherNameEn":"Chang-Hsiang Sun",
         "ClassTime":"203 (70301) 204 (70301)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1367,7 +1367,7 @@
         "TeacherNameEn":null,
         "ClassTime":"401 (3306) 402 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":2.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1399,7 +1399,7 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"203 (1113) 204 (1113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1418,7 +1418,7 @@
         "TeacherNameEn":"Ming-shan Kang",
         "ClassTime":"206 (1113) 207 (1113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1437,7 +1437,7 @@
         "TeacherNameEn":null,
         "ClassTime":"103 (5103) 104 (5103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1456,7 +1456,7 @@
         "TeacherNameEn":null,
         "ClassTime":"203 (5103) 204 (5103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1475,7 +1475,7 @@
         "TeacherNameEn":"Yi-Yun Wang",
         "ClassTime":"106 (3306) 107 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1494,7 +1494,7 @@
         "TeacherNameEn":"Yi-Yun Wang",
         "ClassTime":"108 (3306) 109 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1526,7 +1526,7 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"303 (3104) 304 (3104)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1545,7 +1545,7 @@
         "TeacherNameEn":"Tse-fu Kuan",
         "ClassTime":"108 (3103) 109 (3103)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1564,7 +1564,7 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"201 (2619) 202 (2619)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1583,7 +1583,7 @@
         "TeacherNameEn":"Feng-Yung Hu",
         "ClassTime":"203 (2619) 204 (2619)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1602,7 +1602,7 @@
         "TeacherNameEn":null,
         "ClassTime":"106 (2101) 107 (2101)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1621,7 +1621,7 @@
         "TeacherNameEn":null,
         "ClassTime":"403 (70205) 404 (70205)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1666,7 +1666,7 @@
         "TeacherNameEn":"Li-Fen Huang",
         "ClassTime":"208 (2112) 209 (2112)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1685,7 +1685,7 @@
         "TeacherNameEn":null,
         "ClassTime":"406 (3104) 407 (3104)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1704,7 +1704,7 @@
         "TeacherNameEn":"Yuh-Chia Chang",
         "ClassTime":"401 (3114) 402 (3114)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
+        "CourseRatingCount":2.0,
         "CourseRating":4.5,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1801,7 +1801,7 @@
         "TeacherNameEn":"Shan-Yu Chen",
         "ClassTime":"106 (2112) 107 (2112)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1820,7 +1820,7 @@
         "TeacherNameEn":null,
         "ClassTime":"103 (3306) 104 (3306)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":1.0,
         "CourseRatingPercentages":[
             "100.0%",
@@ -1839,7 +1839,7 @@
         "TeacherNameEn":null,
         "ClassTime":"106 (2009) 107 (2009)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":1.0,
         "CourseRatingPercentages":[
             "100.0%",
@@ -1884,7 +1884,7 @@
         "TeacherNameEn":null,
         "ClassTime":"303 (1213) 304 (1213)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -1903,7 +1903,7 @@
         "TeacherNameEn":null,
         "ClassTime":"307 (1213) 308 (1213)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1,
+        "CourseRatingCount":1.0,
         "CourseRating":4.0,
         "CourseRatingPercentages":[
             "0.0%",
