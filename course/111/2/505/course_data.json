@@ -1,6 +1,19 @@
 [
     {
         "CourseID":"CM113",
+        "CourseClass":"D",
+        "Degree":1,
+        "CourseName":"商事法",
+        "TeacherName":"葉斯偉",
+        "TeacherNameEn":null,
+        "ClassTime":"403 (60209) 404 (60209)",
+        "TypeName":"管院共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM113",
         "CourseClass":"C",
         "Degree":1,
         "CourseName":"商事法",
@@ -189,19 +202,6 @@
         "TeacherName":"張謙恆",
         "TeacherNameEn":null,
         "ClassTime":"310 (3102) 402 (3102) 403 (3102) 404 (3102)",
-        "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CM113",
-        "CourseClass":"D",
-        "Degree":1,
-        "CourseName":"商事法",
-        "TeacherName":"葉斯偉",
-        "TeacherNameEn":null,
-        "ClassTime":"403 (60209) 404 (60209)",
         "TypeName":"管院共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
