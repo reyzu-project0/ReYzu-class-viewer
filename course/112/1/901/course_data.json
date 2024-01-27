@@ -182,76 +182,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GN201",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"數學與邏輯思維",
-        "TeacherName":"陳以明",
-        "TeacherNameEn":"Yee-Ming Chen",
-        "ClassTime":"103 (2603) 104 (2603)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN213",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"物理學漫談",
-        "TeacherName":"俞伯傑",
-        "TeacherNameEn":null,
-        "ClassTime":"408 (2113) 409 (2113)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN220",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"醫學工程概論",
-        "TeacherName":"林恆甫",
-        "TeacherNameEn":"Heng-Fu Lin",
-        "ClassTime":"203 (2621) 204 (2621)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GN225",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"地景欣賞",
-        "TeacherName":"許民陽",
-        "TeacherNameEn":"MING-YANG HSU",
-        "ClassTime":"301 (1213) 302 (1213)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
         "CourseID":"CL142",
         "CourseClass":"G1",
         "Degree":1,
@@ -315,6 +245,70 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"N",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"陳巍仁",
+        "TeacherNameEn":null,
+        "ClassTime":"303 (2606) 304 (2606)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"O",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"郭玲妦",
+        "TeacherNameEn":null,
+        "ClassTime":"401 (3101) 402 (3101)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN410",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"化妝品概論與應用",
+        "TeacherName":"王月花",
+        "TeacherNameEn":null,
+        "ClassTime":"506 (1111) 507 (1111)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":2.0,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN422",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"宇宙漫遊",
+        "TeacherName":"俞伯傑",
+        "TeacherNameEn":null,
+        "ClassTime":"208 (2102) 209 (2102)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN422",
@@ -662,32 +656,6 @@
     },
     {
         "CourseID":"CL142",
-        "CourseClass":"N",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"陳巍仁",
-        "TeacherNameEn":null,
-        "ClassTime":"303 (2606) 304 (2606)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"O",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"郭玲妦",
-        "TeacherNameEn":null,
-        "ClassTime":"401 (3101) 402 (3101)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
         "CourseClass":"P1",
         "Degree":1,
         "CourseName":"國文（一）",
@@ -763,6 +731,38 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"FC003",
+        "CourseClass":"N",
+        "Degree":1,
+        "CourseName":"經典選讀",
+        "TeacherName":"鄧名韻",
+        "TeacherNameEn":"Ming-Yunn Deng",
+        "ClassTime":"203 (2011) 204 (2011)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN410",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"化妝品概論與應用",
+        "TeacherName":"王月花",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (1111) 504 (1111)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":2.0,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID001",
@@ -994,17 +994,74 @@
         ]
     },
     {
-        "CourseID":"FC003",
-        "CourseClass":"N",
+        "CourseID":"GN201",
+        "CourseClass":"A",
         "Degree":1,
-        "CourseName":"經典選讀",
-        "TeacherName":"鄧名韻",
-        "TeacherNameEn":"Ming-Yunn Deng",
-        "ClassTime":"203 (2011) 204 (2011)",
+        "CourseName":"數學與邏輯思維",
+        "TeacherName":"陳以明",
+        "TeacherNameEn":"Yee-Ming Chen",
+        "ClassTime":"103 (2603) 104 (2603)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN213",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"物理學漫談",
+        "TeacherName":"俞伯傑",
+        "TeacherNameEn":null,
+        "ClassTime":"408 (2113) 409 (2113)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN220",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"醫學工程概論",
+        "TeacherName":"林恆甫",
+        "TeacherNameEn":"Heng-Fu Lin",
+        "ClassTime":"203 (2621) 204 (2621)",
         "TypeName":"通識教育課程",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN225",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"地景欣賞",
+        "TeacherName":"許民陽",
+        "TeacherNameEn":"MING-YANG HSU",
+        "ClassTime":"301 (1213) 302 (1213)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"GN245",
@@ -1039,156 +1096,69 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GN410",
-        "CourseClass":"A",
+        "CourseID":"CL142",
+        "CourseClass":"D",
         "Degree":1,
-        "CourseName":"化妝品概論與應用",
-        "TeacherName":"王月花",
+        "CourseName":"國文（一）",
+        "TeacherName":"李瑩娟",
         "TeacherNameEn":null,
-        "ClassTime":"503 (1111) 504 (1111)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":2.0,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%",
-            "0.0%"
-        ]
+        "ClassTime":"301 (2115) 302 (2115)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GN410",
+        "CourseID":"CL142",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"陳建男",
+        "TeacherNameEn":null,
+        "ClassTime":"201 (1111) 202 (1111)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
         "CourseClass":"B",
         "Degree":1,
-        "CourseName":"化妝品概論與應用",
-        "TeacherName":"王月花",
+        "CourseName":"國文（一）",
+        "TeacherName":"陳建男",
         "TeacherNameEn":null,
-        "ClassTime":"506 (1111) 507 (1111)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":2.0,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%",
-            "0.0%"
-        ]
+        "ClassTime":"203 (1111) 204 (1111)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GN422",
+        "CourseID":"CL142",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"宇宙漫遊",
-        "TeacherName":"俞伯傑",
+        "CourseName":"國文（一）",
+        "TeacherName":"郭玲妦",
         "TeacherNameEn":null,
-        "ClassTime":"208 (2102) 209 (2102)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
+        "ClassTime":"403 (3101) 404 (3101)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GS430",
+        "CourseID":"LE113",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"媒體與國際關係",
-        "TeacherName":"胡逢瑛",
-        "TeacherNameEn":"Feng-Yung Hu",
-        "ClassTime":"301 (2423) 302 (2423)",
+        "CourseName":"戲劇欣賞",
+        "TeacherName":"李啟睿",
+        "TeacherNameEn":"Lee, Chi-Jui",
+        "ClassTime":"206 (2603) 207 (2603)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"LE348",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"日本文化概論",
-        "TeacherName":"糠明珊",
-        "TeacherNameEn":"Ming-shan Kang",
-        "ClassTime":"203 (1113) 204 (1113)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"LE348",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"日本文化概論",
-        "TeacherName":"糠明珊",
-        "TeacherNameEn":"Ming-shan Kang",
-        "ClassTime":"206 (1113) 207 (1113)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"LE357",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"古典音樂欣賞",
-        "TeacherName":"周幸諄",
-        "TeacherNameEn":null,
-        "ClassTime":"103 (5103) 104 (5103)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"LE357",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"古典音樂欣賞",
-        "TeacherName":"周幸諄",
-        "TeacherNameEn":null,
-        "ClassTime":"203 (5103) 204 (5103)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
         "CourseID":"LE406",
@@ -1651,6 +1621,57 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"LS244",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"健康與生活",
+        "TeacherName":"陸瑞玲",
+        "TeacherNameEn":"Ray-Ling,Luh",
+        "ClassTime":"206 (70205) 207 (70205)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GS427",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"性別與社會",
+        "TeacherName":"糠明珊",
+        "TeacherNameEn":"Ming-shan Kang",
+        "ClassTime":"303 (2604) 304 (2604)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS430",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"媒體與國際關係",
+        "TeacherName":"胡逢瑛",
+        "TeacherNameEn":"Feng-Yung Hu",
+        "ClassTime":"301 (2423) 302 (2423)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
         "CourseID":"GS430",
         "CourseClass":"B",
         "Degree":1,
@@ -1754,19 +1775,6 @@
     },
     {
         "CourseID":"LE113",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"戲劇欣賞",
-        "TeacherName":"李啟睿",
-        "TeacherNameEn":"Lee, Chi-Jui",
-        "ClassTime":"206 (2603) 207 (2603)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"LE113",
         "CourseClass":"B",
         "Degree":1,
         "CourseName":"戲劇欣賞",
@@ -1856,13 +1864,13 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"GS427",
+        "CourseID":"LE348",
         "CourseClass":"A",
         "Degree":1,
-        "CourseName":"性別與社會",
+        "CourseName":"日本文化概論",
         "TeacherName":"糠明珊",
         "TeacherNameEn":"Ming-shan Kang",
-        "ClassTime":"303 (2604) 304 (2604)",
+        "ClassTime":"203 (1113) 204 (1113)",
         "TypeName":"通識教育課程",
         "CourseRatingCount":1.0,
         "CourseRating":3.0,
@@ -1875,69 +1883,61 @@
         ]
     },
     {
-        "CourseID":"CL142",
-        "CourseClass":"D",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"李瑩娟",
-        "TeacherNameEn":null,
-        "ClassTime":"301 (2115) 302 (2115)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"C",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"陳建男",
-        "TeacherNameEn":null,
-        "ClassTime":"201 (1111) 202 (1111)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
+        "CourseID":"LE348",
         "CourseClass":"B",
         "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"陳建男",
-        "TeacherNameEn":null,
-        "ClassTime":"203 (1111) 204 (1111)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"郭玲妦",
-        "TeacherNameEn":null,
-        "ClassTime":"403 (3101) 404 (3101)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"LS244",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"健康與生活",
-        "TeacherName":"陸瑞玲",
-        "TeacherNameEn":"Ray-Ling,Luh",
-        "ClassTime":"206 (70205) 207 (70205)",
+        "CourseName":"日本文化概論",
+        "TeacherName":"糠明珊",
+        "TeacherNameEn":"Ming-shan Kang",
+        "ClassTime":"206 (1113) 207 (1113)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"LE357",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"古典音樂欣賞",
+        "TeacherName":"周幸諄",
+        "TeacherNameEn":null,
+        "ClassTime":"103 (5103) 104 (5103)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"LE357",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"古典音樂欣賞",
+        "TeacherName":"周幸諄",
+        "TeacherNameEn":null,
+        "ClassTime":"203 (5103) 204 (5103)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"FC003",
