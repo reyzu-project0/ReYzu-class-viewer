@@ -403,19 +403,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"FC003",
-        "CourseClass":"N",
-        "Degree":1,
-        "CourseName":"經典選讀",
-        "TeacherName":"鄧名韻",
-        "TeacherNameEn":"Ming-Yunn Deng",
-        "ClassTime":"203 (2011) 204 (2011)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"GN201",
         "CourseClass":"A",
         "Degree":1,
@@ -974,6 +961,19 @@
             "0.0%",
             "0.0%"
         ]
+    },
+    {
+        "CourseID":"FC003",
+        "CourseClass":"N",
+        "Degree":1,
+        "CourseName":"經典選讀",
+        "TeacherName":"鄧名韻",
+        "TeacherNameEn":"Ming-Yunn Deng",
+        "ClassTime":"203 (2011) 204 (2011)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
         "CourseID":"GS434",
