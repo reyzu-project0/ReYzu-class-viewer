@@ -403,6 +403,19 @@
         "CourseRatingPercentages":null
     },
     {
+        "CourseID":"FC003",
+        "CourseClass":"N",
+        "Degree":1,
+        "CourseName":"經典選讀",
+        "TeacherName":"鄧名韻",
+        "TeacherNameEn":"Ming-Yunn Deng",
+        "ClassTime":"203 (2011) 204 (2011)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
         "CourseID":"GN201",
         "CourseClass":"A",
         "Degree":1,
@@ -461,6 +474,95 @@
         "TeacherName":"許民陽",
         "TeacherNameEn":"MING-YANG HSU",
         "ClassTime":"301 (1213) 302 (1213)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN245",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"科技與生活",
+        "TeacherName":"吳紹懋",
+        "TeacherNameEn":"Sau-Mou Wu",
+        "ClassTime":"206 (70112) 207 (70112)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN407",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"科學史",
+        "TeacherName":"柯賢真",
+        "TeacherNameEn":"Ko,Hsien-Chen",
+        "ClassTime":"506 (2113) 507 (2113)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN410",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"化妝品概論與應用",
+        "TeacherName":"王月花",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (1111) 504 (1111)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":2.0,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN410",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"化妝品概論與應用",
+        "TeacherName":"王月花",
+        "TeacherNameEn":null,
+        "ClassTime":"506 (1111) 507 (1111)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":2.0,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN422",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"宇宙漫遊",
+        "TeacherName":"俞伯傑",
+        "TeacherNameEn":null,
+        "ClassTime":"208 (2102) 209 (2102)",
         "TypeName":"通識教育課程",
         "CourseRatingCount":1.0,
         "CourseRating":2.0,
@@ -815,6 +917,146 @@
             "0.0%",
             "0.0%"
         ]
+    },
+    {
+        "CourseID":"GS427",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"性別與社會",
+        "TeacherName":"糠明珊",
+        "TeacherNameEn":"Ming-shan Kang",
+        "ClassTime":"303 (2604) 304 (2604)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS430",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"媒體與國際關係",
+        "TeacherName":"胡逢瑛",
+        "TeacherNameEn":"Feng-Yung Hu",
+        "ClassTime":"301 (2423) 302 (2423)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS430",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"媒體與國際關係",
+        "TeacherName":"胡逢瑛",
+        "TeacherNameEn":"Feng-Yung Hu",
+        "ClassTime":"303 (2423) 304 (2423)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":2.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS434",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"歐洲史導論",
+        "TeacherName":"賀彥豪",
+        "TeacherNameEn":"GEORG HARTICH",
+        "ClassTime":"503 (2113) 504 (2113)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS445",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"公民社會與法治",
+        "TeacherName":"侯世傑",
+        "TeacherNameEn":"jethou",
+        "ClassTime":"106 (3103) 107 (3103)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":3.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS447",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"勞動保障與權益解析",
+        "TeacherName":"簡秀蓮",
+        "TeacherNameEn":"Hsiu-Lien,Chien",
+        "ClassTime":"208 (2101) 209 (2101)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":1.0,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GS448",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"數位媒體素養、思考與實踐",
+        "TeacherName":"唐允中",
+        "TeacherNameEn":null,
+        "ClassTime":"406 (3103) 407 (3103)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GS450",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"企業永續發展概論",
+        "TeacherName":"尤淨纓",
+        "TeacherNameEn":"Ching-Ying Yu",
+        "ClassTime":"406 (3310) 407 (3310)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
         "CourseID":"ID001",
@@ -1367,248 +1609,6 @@
             "0.0%",
             "0.0%",
             "100.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN422",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"宇宙漫遊",
-        "TeacherName":"俞伯傑",
-        "TeacherNameEn":null,
-        "ClassTime":"208 (2102) 209 (2102)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN410",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"化妝品概論與應用",
-        "TeacherName":"王月花",
-        "TeacherNameEn":null,
-        "ClassTime":"506 (1111) 507 (1111)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":2.0,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN410",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"化妝品概論與應用",
-        "TeacherName":"王月花",
-        "TeacherNameEn":null,
-        "ClassTime":"503 (1111) 504 (1111)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":2.0,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN407",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"科學史",
-        "TeacherName":"柯賢真",
-        "TeacherNameEn":"Ko,Hsien-Chen",
-        "ClassTime":"506 (2113) 507 (2113)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GN245",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"科技與生活",
-        "TeacherName":"吳紹懋",
-        "TeacherNameEn":"Sau-Mou Wu",
-        "ClassTime":"206 (70112) 207 (70112)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"FC003",
-        "CourseClass":"N",
-        "Degree":1,
-        "CourseName":"經典選讀",
-        "TeacherName":"鄧名韻",
-        "TeacherNameEn":"Ming-Yunn Deng",
-        "ClassTime":"203 (2011) 204 (2011)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GS450",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"企業永續發展概論",
-        "TeacherName":"尤淨纓",
-        "TeacherNameEn":"Ching-Ying Yu",
-        "ClassTime":"406 (3310) 407 (3310)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GS448",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"數位媒體素養、思考與實踐",
-        "TeacherName":"唐允中",
-        "TeacherNameEn":null,
-        "ClassTime":"406 (3103) 407 (3103)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GS447",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"勞動保障與權益解析",
-        "TeacherName":"簡秀蓮",
-        "TeacherNameEn":"Hsiu-Lien,Chien",
-        "ClassTime":"208 (2101) 209 (2101)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":4.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GS445",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"公民社會與法治",
-        "TeacherName":"侯世傑",
-        "TeacherNameEn":"jethou",
-        "ClassTime":"106 (3103) 107 (3103)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GS434",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"歐洲史導論",
-        "TeacherName":"賀彥豪",
-        "TeacherNameEn":"GEORG HARTICH",
-        "ClassTime":"503 (2113) 504 (2113)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GS430",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"媒體與國際關係",
-        "TeacherName":"胡逢瑛",
-        "TeacherNameEn":"Feng-Yung Hu",
-        "ClassTime":"303 (2423) 304 (2423)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GS430",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"媒體與國際關係",
-        "TeacherName":"胡逢瑛",
-        "TeacherNameEn":"Feng-Yung Hu",
-        "ClassTime":"301 (2423) 302 (2423)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":2.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "100.0%",
-            "0.0%",
-            "0.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GS427",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"性別與社會",
-        "TeacherName":"糠明珊",
-        "TeacherNameEn":"Ming-shan Kang",
-        "ClassTime":"303 (2604) 304 (2604)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":1.0,
-        "CourseRating":3.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%",
             "0.0%"
         ]
     },
