@@ -13,38 +13,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CM116",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"微積分",
-        "TeacherName":"姜一銘",
-        "TeacherNameEn":"I-Ming Jiang",
-        "ClassTime":"101 (3101) 102 (3101) 103 (3101) 104 (3101) 106 (3101) 107 (3101) 108 (3101) 109 (3101) 110 (3101)",
-        "TypeName":"管院共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CM105",
-        "CourseClass":"C",
-        "Degree":1,
-        "CourseName":"經濟學（上）",
-        "TeacherName":"吳菊華",
-        "TeacherNameEn":"Chu-Hua Wu",
-        "ClassTime":"302 (3101) 303 (3101) 304 (3101)",
-        "TypeName":"管院共同必修",
-        "CourseRatingCount":1.0,
-        "CourseRating":4.0,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "0.0%",
-            "100.0%",
-            "0.0%"
-        ]
-    },
-    {
         "CourseID":"EEA120",
         "CourseClass":"A",
         "Degree":1,
@@ -52,19 +20,6 @@
         "TeacherName":"熊甘霖",
         "TeacherNameEn":null,
         "ClassTime":"106 (70108) 107 (70108) 108 (70108) 206 (70108) 207 (70108) 208 (70108) 306 (70108) 307 (70108) 308 (70108)",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CH128",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"普通物理（一）",
-        "TeacherName":"孫安正",
-        "TeacherNameEn":"An-Cheng Sun",
-        "ClassTime":"101 (2101) 102 (2101) 103 (2101) 104 (2101) 106 (2101) 107 (2101) 108 (2101) 109 (2101) 110 (2101)",
         "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -118,6 +73,51 @@
         "TeacherNameEn":null,
         "ClassTime":"102 (3103) 103 (3103) 104 (3103)",
         "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CH128",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"普通物理（一）",
+        "TeacherName":"孫安正",
+        "TeacherNameEn":"An-Cheng Sun",
+        "ClassTime":"101 (2101) 102 (2101) 103 (2101) 104 (2101) 106 (2101) 107 (2101) 108 (2101) 109 (2101) 110 (2101)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CM105",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"經濟學（上）",
+        "TeacherName":"吳菊華",
+        "TeacherNameEn":"Chu-Hua Wu",
+        "ClassTime":"302 (3101) 303 (3101) 304 (3101)",
+        "TypeName":"管院共同必修",
+        "CourseRatingCount":1.0,
+        "CourseRating":4.0,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "0.0%",
+            "100.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"CM116",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"微積分",
+        "TeacherName":"姜一銘",
+        "TeacherNameEn":"I-Ming Jiang",
+        "ClassTime":"101 (3101) 102 (3101) 103 (3101) 104 (3101) 106 (3101) 107 (3101) 108 (3101) 109 (3101) 110 (3101)",
+        "TypeName":"管院共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
