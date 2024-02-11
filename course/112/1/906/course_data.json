@@ -650,6 +650,19 @@
     },
     {
         "CourseID":"EL138",
+        "CourseClass":"F",
+        "Degree":2,
+        "CourseName":"日語（三）",
+        "TeacherName":"張恆如",
+        "TeacherNameEn":null,
+        "ClassTime":"208 (1213) 209 (1213)",
+        "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EL138",
         "CourseClass":"G",
         "Degree":2,
         "CourseName":"日語（三）",
@@ -1052,32 +1065,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"EL226",
-        "CourseClass":"D",
-        "Degree":2,
-        "CourseName":"網路學英語",
-        "TeacherName":"簡洛汾",
-        "TeacherNameEn":null,
-        "ClassTime":"506 (1205) 507 (1205)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"EL138",
-        "CourseClass":"F",
-        "Degree":2,
-        "CourseName":"日語（三）",
-        "TeacherName":"張恆如",
-        "TeacherNameEn":null,
-        "ClassTime":"208 (1213) 209 (1213)",
-        "TypeName":"選修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"EL138",
         "CourseClass":"E",
         "Degree":2,
@@ -1151,6 +1138,19 @@
         "TeacherNameEn":null,
         "ClassTime":"108 (1213) 109 (1213)",
         "TypeName":"選修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"EL226",
+        "CourseClass":"D",
+        "Degree":2,
+        "CourseName":"網路學英語",
+        "TeacherName":"簡洛汾",
+        "TeacherNameEn":null,
+        "ClassTime":"506 (1205) 507 (1205)",
+        "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
