@@ -1,58 +1,6 @@
 [
     {
         "CourseID":"CL142",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"郭玲妦",
-        "TeacherNameEn":null,
-        "ClassTime":"403 (3101) 404 (3101)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"陳建男",
-        "TeacherNameEn":null,
-        "ClassTime":"203 (1111) 204 (1111)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"C",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"陳建男",
-        "TeacherNameEn":null,
-        "ClassTime":"201 (1111) 202 (1111)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"D",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"李瑩娟",
-        "TeacherNameEn":null,
-        "ClassTime":"301 (2115) 302 (2115)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
         "CourseClass":"E1",
         "Degree":1,
         "CourseName":"國文（一）",
@@ -484,6 +432,58 @@
             "0.0%",
             "0.0%"
         ]
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"D",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"李瑩娟",
+        "TeacherNameEn":null,
+        "ClassTime":"301 (2115) 302 (2115)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"C",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"陳建男",
+        "TeacherNameEn":null,
+        "ClassTime":"201 (1111) 202 (1111)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"陳建男",
+        "TeacherNameEn":null,
+        "ClassTime":"203 (1111) 204 (1111)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"郭玲妦",
+        "TeacherNameEn":null,
+        "ClassTime":"403 (3101) 404 (3101)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
         "CourseID":"GN245",
