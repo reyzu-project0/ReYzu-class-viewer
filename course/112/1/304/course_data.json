@@ -86,7 +86,7 @@
         "TeacherNameEn":"Ting-Ying Chien",
         "ClassTime":"406 (1008) 407 (1008) 408 (1008)",
         "TypeName":"選修",
-        "CourseRatingCount":2.0,
+        "CourseRatingCount":2,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -339,7 +339,7 @@
         "TeacherNameEn":"BO-KAI, HSU",
         "ClassTime":"506 (70205) 507 (70205) 508 (70205)",
         "TypeName":"系必修",
-        "CourseRatingCount":1.0,
+        "CourseRatingCount":1,
         "CourseRating":5.0,
         "CourseRatingPercentages":[
             "0.0%",
@@ -449,7 +449,7 @@
         "TeacherNameEn":"Cheng-Zen Yang",
         "ClassTime":"102 (1201A) 103 (1201A) 104 (1201A)",
         "TypeName":"必選修",
-        "CourseRatingCount":1.0,
+        "CourseRatingCount":1,
         "CourseRating":3.0,
         "CourseRatingPercentages":[
             "0.0%",
