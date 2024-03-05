@@ -375,58 +375,6 @@
         "CourseRatingPercentages":null
     },
     {
-        "CourseID":"CL165",
-        "CourseClass":"R",
-        "Degree":1,
-        "CourseName":"國文（二）",
-        "TeacherName":"周佩芳",
-        "TeacherNameEn":null,
-        "ClassTime":"403 (2009) 404 (2009)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL165",
-        "CourseClass":"S",
-        "Degree":1,
-        "CourseName":"國文（二）",
-        "TeacherName":"邱佩文",
-        "TeacherNameEn":null,
-        "ClassTime":"301 (2425) 302 (2425)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL165",
-        "CourseClass":"T",
-        "Degree":1,
-        "CourseName":"國文（二）",
-        "TeacherName":"邱佩文",
-        "TeacherNameEn":null,
-        "ClassTime":"303 (2425) 304 (2425)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL165",
-        "CourseClass":"U",
-        "Degree":1,
-        "CourseName":"國文（二）",
-        "TeacherName":"徐其寧",
-        "TeacherNameEn":null,
-        "ClassTime":"508 (1211) 509 (1211)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"CP112",
         "CourseClass":"A5",
         "Degree":1,
@@ -877,6 +825,58 @@
             "50.0%",
             "0.0%"
         ]
+    },
+    {
+        "CourseID":"CL165",
+        "CourseClass":"U",
+        "Degree":1,
+        "CourseName":"國文（二）",
+        "TeacherName":"徐其寧",
+        "TeacherNameEn":null,
+        "ClassTime":"508 (1211) 509 (1211)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL165",
+        "CourseClass":"T",
+        "Degree":1,
+        "CourseName":"國文（二）",
+        "TeacherName":"邱佩文",
+        "TeacherNameEn":null,
+        "ClassTime":"303 (2425) 304 (2425)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL165",
+        "CourseClass":"S",
+        "Degree":1,
+        "CourseName":"國文（二）",
+        "TeacherName":"邱佩文",
+        "TeacherNameEn":null,
+        "ClassTime":"301 (2425) 302 (2425)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL165",
+        "CourseClass":"R",
+        "Degree":1,
+        "CourseName":"國文（二）",
+        "TeacherName":"周佩芳",
+        "TeacherNameEn":null,
+        "ClassTime":"403 (2009) 404 (2009)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
     },
     {
         "CourseID":"GN418",
