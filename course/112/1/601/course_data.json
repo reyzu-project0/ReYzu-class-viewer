@@ -1,18 +1,5 @@
 [
     {
-        "CourseID":"FL144",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"日語（一）",
-        "TeacherName":"梁蘊嫻",
-        "TeacherNameEn":null,
-        "ClassTime":"103 (5730) 104 (5730) 303 (5103) 304 (5103)",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"FL313",
         "CourseClass":"A",
         "Degree":1,
@@ -72,6 +59,19 @@
         "TeacherName":"陳怡蓁",
         "TeacherNameEn":"Yi-Chen Chen",
         "ClassTime":"403 (5709) 404 (5709)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"FL144",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"日語（一）",
+        "TeacherName":"梁蘊嫻",
+        "TeacherNameEn":null,
+        "ClassTime":"103 (5730) 104 (5730) 303 (5103) 304 (5103)",
         "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
