@@ -92,12 +92,12 @@
     },
     {
         "CourseID":"CL142",
-        "CourseClass":"P2",
+        "CourseClass":"I2",
         "Degree":1,
         "CourseName":"國文（一）",
-        "TeacherName":"陳建男",
+        "TeacherName":"洪士惠",
         "TeacherNameEn":null,
-        "ClassTime":"503 (2423) 504 (2423)",
+        "ClassTime":"503 (3103) 504 (3103)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -177,19 +177,6 @@
         "TeacherNameEn":"Ming-Yunn Deng",
         "ClassTime":"203 (2011) 204 (2011)",
         "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
-        "CourseClass":"I2",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"洪士惠",
-        "TeacherNameEn":null,
-        "ClassTime":"503 (3103) 504 (3103)",
-        "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
@@ -280,6 +267,19 @@
         "TeacherName":"陳建男",
         "TeacherNameEn":null,
         "ClassTime":"203 (1111) 204 (1111)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"郭玲妦",
+        "TeacherNameEn":null,
+        "ClassTime":"403 (3101) 404 (3101)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -835,19 +835,6 @@
     },
     {
         "CourseID":"CL142",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"國文（一）",
-        "TeacherName":"郭玲妦",
-        "TeacherNameEn":null,
-        "ClassTime":"403 (3101) 404 (3101)",
-        "TypeName":"共同必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"CL142",
         "CourseClass":"N",
         "Degree":1,
         "CourseName":"國文（一）",
@@ -880,6 +867,19 @@
         "TeacherName":"陳建男",
         "TeacherNameEn":null,
         "ClassTime":"501 (2423) 502 (2423)",
+        "TypeName":"共同必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"CL142",
+        "CourseClass":"P2",
+        "Degree":1,
+        "CourseName":"國文（一）",
+        "TeacherName":"陳建男",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (2423) 504 (2423)",
         "TypeName":"共同必修",
         "CourseRatingCount":null,
         "CourseRating":null,
@@ -975,57 +975,6 @@
         ]
     },
     {
-        "CourseID":"GN407",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"科學史",
-        "TeacherName":"柯賢真",
-        "TeacherNameEn":"Ko,Hsien-Chen",
-        "ClassTime":"506 (2113) 507 (2113)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
-        "CourseID":"GN410",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"化妝品概論與應用",
-        "TeacherName":"王月花",
-        "TeacherNameEn":null,
-        "ClassTime":"503 (1111) 504 (1111)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%",
-            "0.0%"
-        ]
-    },
-    {
-        "CourseID":"GN410",
-        "CourseClass":"B",
-        "Degree":1,
-        "CourseName":"化妝品概論與應用",
-        "TeacherName":"王月花",
-        "TeacherNameEn":null,
-        "ClassTime":"506 (1111) 507 (1111)",
-        "TypeName":"通識教育課程",
-        "CourseRatingCount":2,
-        "CourseRating":3.5,
-        "CourseRatingPercentages":[
-            "0.0%",
-            "0.0%",
-            "50.0%",
-            "50.0%",
-            "0.0%"
-        ]
-    },
-    {
         "CourseID":"CL142",
         "CourseClass":"G2",
         "Degree":1,
@@ -1102,6 +1051,57 @@
         "CourseRatingCount":null,
         "CourseRating":null,
         "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN407",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"科學史",
+        "TeacherName":"柯賢真",
+        "TeacherNameEn":"Ko,Hsien-Chen",
+        "ClassTime":"506 (2113) 507 (2113)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"GN410",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"化妝品概論與應用",
+        "TeacherName":"王月花",
+        "TeacherNameEn":null,
+        "ClassTime":"503 (1111) 504 (1111)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%",
+            "0.0%"
+        ]
+    },
+    {
+        "CourseID":"GN410",
+        "CourseClass":"B",
+        "Degree":1,
+        "CourseName":"化妝品概論與應用",
+        "TeacherName":"王月花",
+        "TeacherNameEn":null,
+        "ClassTime":"506 (1111) 507 (1111)",
+        "TypeName":"通識教育課程",
+        "CourseRatingCount":2,
+        "CourseRating":3.5,
+        "CourseRatingPercentages":[
+            "0.0%",
+            "0.0%",
+            "50.0%",
+            "50.0%",
+            "0.0%"
+        ]
     },
     {
         "CourseID":"ID001",
