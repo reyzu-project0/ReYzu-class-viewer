@@ -1,18 +1,5 @@
 [
     {
-        "CourseID":"IE101",
-        "CourseClass":"A",
-        "Degree":1,
-        "CourseName":"工業工程概論",
-        "TeacherName":"蔡介元",
-        "TeacherNameEn":"Chieh-Yuan Tsai",
-        "ClassTime":"307 (70206) 308 (70206) 309 (70206)",
-        "TypeName":"系必修",
-        "CourseRatingCount":null,
-        "CourseRating":null,
-        "CourseRatingPercentages":null
-    },
-    {
         "CourseID":"IE109",
         "CourseClass":"A",
         "Degree":1,
@@ -20,6 +7,19 @@
         "TeacherName":"梁韵嘉",
         "TeacherNameEn":"Yun-Chia Liang",
         "ClassTime":"310 (70206) 406 (70206) 407 (70206) 408 (70206)",
+        "TypeName":"系必修",
+        "CourseRatingCount":null,
+        "CourseRating":null,
+        "CourseRatingPercentages":null
+    },
+    {
+        "CourseID":"IE101",
+        "CourseClass":"A",
+        "Degree":1,
+        "CourseName":"工業工程概論",
+        "TeacherName":"蔡介元",
+        "TeacherNameEn":"Chieh-Yuan Tsai",
+        "ClassTime":"307 (70206) 308 (70206) 309 (70206)",
         "TypeName":"系必修",
         "CourseRatingCount":null,
         "CourseRating":null,
