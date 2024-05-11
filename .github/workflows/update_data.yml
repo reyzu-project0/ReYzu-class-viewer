@@ -6,9 +6,9 @@ on:
   # Manually running a workflow
   workflow_dispatch:
 
-  schedule:
-    # every day at 16:00 UTC ( 00:00 UTC+8 )
-    - cron: "0 16 * * *"
+  # schedule:
+  #   # every day at 16:00 UTC ( 00:00 UTC+8 )
+  #   - cron: "0 16 * * *"
 
 jobs:
 
